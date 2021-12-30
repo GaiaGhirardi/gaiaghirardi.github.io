@@ -15,6 +15,8 @@ redirect_from:
 
 **Where:**  I am at the department of Political and Social Science at the the European University Institute, Florence.
 
+![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
+
 
 Bio
 ======
@@ -28,4 +30,4 @@ I am interested in **social stratification and educational inequalities since th
 
 Please write me, if you work on similar topics or are interested in my work! 
 
-![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
+
