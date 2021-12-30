@@ -13,7 +13,7 @@ name                     : &name "Gaia Ghirardi"
 description              : &description "PhD researcher at the European University Institute (Florence, Italy)"
 url                      : https://gaiaghirardi.github.io # the base hostname & protocol for your site e.g. "https://gaiaghirardi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gaiaghirardi.github.io"
+repository               : "GaiaGhirardi/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
