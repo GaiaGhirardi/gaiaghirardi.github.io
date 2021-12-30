@@ -20,6 +20,6 @@ Hi, welcome to my page!
 
 I am interested in **social stratification and educational inequalities since the very beginning.** In my BA thesis, by using PISA data, I started to investigate whether advantaged students have higher educational performances compared to disadvantaged ones. Then, in my MA thesis, I used the newborn sample of the NEPS data to examine whether formal childcare can be an effective tool to reduce social inequality in children’s competencies.  
 
-Please write me, f you work on similar topics or are interested in my work! 
+Please write me, if you work on similar topics or are interested in my work! 
 
 ![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
