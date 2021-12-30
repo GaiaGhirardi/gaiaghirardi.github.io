@@ -21,4 +21,4 @@ I am interested in social stratification and educational inequalities since the 
 
 If you work on similar topics or are interested in my work, write me! 
 
-[](http://gaiaghirardi.github.io/images/bybike1.jpeg)
+![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
