@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[See my CV here](http://marespadafor.github.io/files/CV Gaia.pdf) 
+[See my CV here](https://gaiaghirardi.github.io/academicpages.github.io//cv/CV Gaia.pdf) 
