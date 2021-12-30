@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hi, welcome to my page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my page!
+
 ======
 
 **Who:**    I am a PhD student.
