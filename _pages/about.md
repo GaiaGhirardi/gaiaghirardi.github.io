@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Me
+Hi, welcome to my page!
 ======
 
 **Who:**    I am a PhD student.
@@ -21,7 +21,6 @@ Me
 Bio
 ======
 
-Hi, welcome to my page!
 
  I am a PhD student at the European University Institute in Political and Social Science. My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.**
 
