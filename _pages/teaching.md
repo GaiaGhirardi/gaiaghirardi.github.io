@@ -4,10 +4,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Tutor Quantitative Methods at University of Trento
+# Tutor Quantitative Methods at University of Trento (2019-2020)
 
 
-Department of sociology, BA level (2019-2020)
+Department of sociology, BA level 
 
 Quantitative Methods in Sociology (Prof. Dr. Enrico Rettore)
 
