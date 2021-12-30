@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+Me
+======
+
+**Who:**    I am a PhD student.
+
+**What:**   My research fields are social stratification, social science genomics, and educational inequalities.
+
+**Where:**  I am at the department of Political and Social Science at the the European University Institute, Florence.
+
 
 Bio
 ======
