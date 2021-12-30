@@ -10,4 +10,5 @@ author_profile: true
 Department of sociology, BA level (2019-2020)
 
 Quantitative Methods in Sociology (Prof. Dr. Enrico Rettore)
+
 Quantitative Methods in International Studies (Prof. Dr. Stefano Benati)
