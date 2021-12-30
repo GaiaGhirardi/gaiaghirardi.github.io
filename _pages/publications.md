@@ -1,16 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Working papers"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+- **Ghirardi G.**, Baier T., Kleinert C., Triventi M., 2021. Is early formal childcare a potential equalizer?
+How attending childcare and education centres affects children’s cognitive and socio-emotional skills in Germany
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
