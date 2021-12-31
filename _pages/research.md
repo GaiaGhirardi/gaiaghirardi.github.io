@@ -8,5 +8,4 @@ Research topics
 
 social stratification, sociogenomics, educational inequalities
 
-<img src="ttp://gaiaghirardi.github.io/images/re.jpeg" width="350" />
-
+<img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
