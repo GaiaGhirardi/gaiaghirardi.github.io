@@ -12,5 +12,5 @@ redirect_from:
 [See my CV here](https://gaiaghirardi.github.io/files/CV_Gaia.pdf) 
 
 
-<img src="http://gaiaghirardi.github.io/images/off.jpeg" width="300" />
+<img src="http://gaiaghirardi.github.io/images/off.jpeg" width="350" />
 
