@@ -13,11 +13,11 @@ Hi, welcome to my page!
 ======
 
 
-**Who:**    I am a PhD student.
+**Who:**    I am a sociology PhD student
 
-**What:**   My research fields are social stratification, social science genomics, and educational inequalities.
+**What:**   My research fields are social stratification, social science genomics, and educational inequalities
 
-**Where:**  I am at the department of Political and Social Science at the the European University Institute, Florence.
+**Where:**  I am at the department of Political and Social Science at the the European University Institute, Florence
 
 ![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
 
