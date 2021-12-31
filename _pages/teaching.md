@@ -13,4 +13,4 @@ Quantitative Methods in Sociology (Prof. Dr. Enrico Rettore)
 
 Quantitative Methods in International Studies (Prof. Dr. Stefano Benati)
 
-![](http://gaiaghirardi.github.io/images/tea.jpeg)
+<img src="http://gaiaghirardi.github.io/images/tea.jpeg" width="300" />
