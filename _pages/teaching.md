@@ -4,8 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Tutor Quantitative Methods at University of Trento (2019-2020)
-======
+# <span style="color:#52adc8"> Tutor Quantitative Methods at University of Trento (2019-2020) </span>
 
 Department of sociology (BA level): Quantitative Methods in Sociology (Prof. Dr. Enrico Rettore); Quantitative Methods in International Studies (Prof. Dr. Stefano Benati)
 
