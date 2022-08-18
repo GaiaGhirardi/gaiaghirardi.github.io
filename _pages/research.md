@@ -12,7 +12,7 @@ social stratification, sociogenomics, educational inequalities
 
 <img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
 
-# <span style="color:#52adc8"> On going projects </span>
+# <span style="color:#52adc8"> Ongoing projects </span>
 
 ## Ghirardi, G. & Bernardi, F. Is the effect of genes on education moderated by family’s socioeconomic background? Looking at educational outcomes with different selectivity.
 <details>
