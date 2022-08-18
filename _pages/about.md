@@ -39,3 +39,9 @@ Contact me
 Please write me, if you work on similar topics or are interested in my work! (gaia.ghirardi@eui.eu)
 
 
+My tweets 
+======
+
+<a class="twitter-timeline" data-tweet-limit="1" data-width="700"  align="center"  href="https://twitter.com/GaiaGhirardi?ref_src=twsrc%5Etfw"> </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
