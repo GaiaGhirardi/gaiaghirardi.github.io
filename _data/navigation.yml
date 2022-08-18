@@ -12,3 +12,7 @@ main:
     
   - title: "CV"
     url: /cv/ 
+    
+  - title: "Data & Code"
+    url: /datacode/
+    
