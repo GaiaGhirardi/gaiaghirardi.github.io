@@ -17,7 +17,7 @@ Hi, welcome to my page!
 
 **What:**   My research fields are social stratification, social science genomics, and educational inequalities
 
-**Where:**  I am at the department of Political and Social Science at the the European University Institute, Florence
+**Where:**  I am at the department of Political and Social Science at the the European University Institute, Florence - At the moment, research visit at CREST and INED in Paris
 
 ![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
 
@@ -26,11 +26,11 @@ Bio
 ======
 
 
- I am a PhD student at the European University Institute in Political and Social Science. My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.**
+ I am a PhD student at the European University Institute in Political and Social Science. My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.** Now I am spending the fall term 2022 in Paris doing my research visit at Center for Research in Economics and Statistics (CREST) and Institut National d’Etudes Démographiques (INED) to work with Felix Tropf and Lidia Panico. 
 
  I have a background in **Sociology and quantitative methods.** I obtained my BA in Sociology at the University of Milano Bicocca and a double MA in Sociology between the universities of Trento and Bamberg. During my master, I also worked as a student research assistant at the University of Bamberg and as a tutor for courses on quantitative methods at the Univerisity of Trento.
 
-I am interested in **social stratification and educational inequalities** since the very beginning. In my BA thesis, by using PISA data, I started to investigate whether advantaged students have higher educational performances compared to disadvantaged ones. Then, in my MA thesis, I used the newborn sample of the NEPS data to examine whether formal childcare can be an effective tool to reduce social inequality in children’s competencies.  
+I am interested in **social stratification and educational inequalities** since the very beginning. I started being obsessed with educational inequalities already during my bachelor, in which I wrote my BA thesis investigating educational inequalities and using PISA data. Then, in my MA thesis, I used the newborn sample of the NEPS data to examine whether formal childcare can be an effective tool to reduce social inequality in children’s competencies.  
 
 
 Contact me
@@ -41,6 +41,8 @@ Please write me, if you work on similar topics or are interested in my work! (ga
 
 My tweets 
 ======
+
+Here you can see my attempts to be active on Twitter. 
 
 <a class="twitter-timeline" data-tweet-limit="1" data-width="700"  align="center"  href="https://twitter.com/GaiaGhirardi?ref_src=twsrc%5Etfw"> </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
