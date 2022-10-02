@@ -26,7 +26,7 @@ Bio
 ======
 
 
- I am a PhD student at the European University Institute in Political and Social Science. My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.** Now I am spending the fall term 2022 in Paris doing my research visit at Center for Research in Economics and Statistics (CREST) and Institut National d’Etudes Démographiques (INED) to work with Felix Tropf and Lidia Panico. 
+ I am a PhD student at the European University Institute in Political and Social Science. My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.** Now I am spending the fall term 2022 in Paris doing my research visit at the Center for Research in Economics and Statistics (CREST) and the Institut National d’Etudes Démographiques (INED) to work with Felix Tropf and Lidia Panico. 
 
  I have a background in **Sociology and quantitative methods.** I obtained my BA in Sociology at the University of Milano Bicocca and a double MA in Sociology between the universities of Trento and Bamberg. During my master, I also worked as a student research assistant at the University of Bamberg and as a tutor for courses on quantitative methods at the Univerisity of Trento.
 
