@@ -14,7 +14,7 @@ social stratification, sociogenomics, educational inequalities
 
 # <span style="color:#52adc8"> Ongoing projects </span>
 
-## Ghirardi, G. & Bernardi, F. The GxSES interaction for educational attainment: The key role of educational outcome selectivity.
+## Ghirardi, G. & Bernardi, F. The GxSES interaction for educational attainment: The key role of educational outcome selectivity
 <details>
 <summary>Read more</summary>
 A growing body of research investigates whether the opportunity to realize the genetic endowment for education varies by parents’ socio-economic status (SES). However, theoretical expectations and previous evidence on the moderation of family’s SES on the genetic association on education lead to inconclusive conclusions. We combine behavioural genetics and stratification literature to examine whether this mixed evidence may be due to the selectivity level of the educational outcome analysed and the individuals’ genetic predisposition to education. Using the National Longitudinal Study of Adolescent to Adult Health (Add Health), we investigate educational outcomes characterized by different levels of selectivity: high school completion, college enrolment, college completion, graduate school completion and PhD completion. Results show that high-SES parents can be more able to compensate for low genetic endowment when the educational outcome is easier to achieve and boost genetic endowment for the outcome that is more difficult to reach.
