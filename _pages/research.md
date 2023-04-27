@@ -34,3 +34,9 @@ The persistent transmission of educational (dis)advantages over generations is w
 The importance of early childhood education and care (ECEC) for fostering children’s development and reducing early inequalities is widely recognized by previous studies. However, much of this evidence refers to pre-school (i.e., to 3-to 5-year-olds), and mainly stems from randomized evaluations of small-scale intensive programs based in the United States and other English-speaking countries. This study thus examines the impact of ECEC under the age of 3 on children’s development and its role in tackling the early social inequality in such outcomes in France. We ask whether attending ECEC at age 2 has a positive (or negative) impact on children’s developmental outcomes and if the role of ECEC on child development is different according to the family’s socio-economic status (SES). We address these questions, using the Étude Longitudinale Français depuis l’Enfance (Elfe), and ordinary least squares (OLS) models with inverse probability weight (IPW) to account for confounding bias possibly arising from selection into care arrangements. Our findings show that ECEC attendance positively affects children’s development and that disadvantaged children benefit more in children’s global development from attending ECEC. These results suggest that ECEC institutions may be an effective tool to reduce social inequalities in some, but not all, early child developmental outcomes.
 </details>
 <br>
+
+## Ghirardi, G., Koksal, S. Gene-environmental interaction in pregnancy loss
+<details>
+<summary>Read more</summary>
+ </details>
+<br>
