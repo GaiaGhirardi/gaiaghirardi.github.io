@@ -35,8 +35,3 @@ The importance of early childhood education and care (ECEC) for fostering childr
 </details>
 <br>
 
-## Ghirardi, G., Koksal, S. Gene-environment interaction in pregnancy loss
-<details>
-<summary>Read more</summary>
- </details>
-<br>
