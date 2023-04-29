@@ -84,7 +84,7 @@ author:
   avatar           : "profile.JPEG"
   bio              : "Sociology PhD researcher at the EUI"
   location         : "Florence, Italy"
-  employer         : "https://www.eui.eu/people?id=gaia-ghirardi" 
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8vDl2YAAAAAJ&hl=it&oi=ao"
   email            : gaia.ghirardi@eui.eu
