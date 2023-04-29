@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# <span style="color:#52adc8"> Main ongoing projects </span>
+# <span style="color:#52adc8"> Selected ongoing projects </span>
 
 
 ## Ghirardi, & G. Bernardi, F. Re-theorizing GxE research on education by degree of outcome selectivity
