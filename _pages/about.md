@@ -26,7 +26,7 @@ Bio
 ======
 
 
- I am a PhD student at the European University Institute in Political and Social Science. My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.** 
+ I am a PhD student at the European University Institute. My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.** 
 
  I have a background in **sociology and quantitative methods.** I obtained my BA in Sociology at the University of Milano Bicocca and a double MA in Sociology between the universities of Trento and Bamberg. 
 
