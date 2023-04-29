@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[See my CV here](https://gaiaghirardi.github.io/files/CV_ME.pdf) 
+[Here my CV!](https://gaiaghirardi.github.io/files/CV_ME.pdf) 
 
 
 <img src="http://gaiaghirardi.github.io/images/off.jpeg" width="350" />
