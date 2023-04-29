@@ -3,8 +3,6 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-Research
-=====
 
 # <span style="color:#52adc8"> Main ongoing projects </span>
 
