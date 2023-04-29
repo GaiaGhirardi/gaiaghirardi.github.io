@@ -13,11 +13,11 @@ Hi, welcome to my page!
 ======
 
 
-* Who:  [Sociology PhD student] (https://www.eui.eu/people?id=gaia-ghirardi)
+* Who:  [Sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi)
 
 * What:  My research fields are social stratification, educational inequalities, early childhood, and social science genetics 
 
-* Where: Department of Political and Social Science at the the [European University Institute (EUI)] (https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence 
+* Where: Department of Political and Social Science at the the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence 
 
 ![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
 
