@@ -6,11 +6,7 @@ author_profile: true
 Research
 =====
 
-# <span style="color:#52adc8"> Research topics </span>
-
-social stratification, sociogenomics, educational inequalities
-
-# <span style="color:#52adc8"> Ongoing projects </span>
+# <span style="color:#52adc8"> Main ongoing projects </span>
 
 ## Ghirardi, & G. Bernardi, F. Re-theorizing GxE research on education by degree of outcome selectivity
 <details>
