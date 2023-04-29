@@ -30,7 +30,7 @@ Bio
 
  I have a background in **sociology and quantitative methods.** I obtained my BA in Sociology at the University of Milano Bicocca and a double MA in Sociology between the universities of Trento and Bamberg. 
 
-I am interested in **social stratification and educational inequalities** since the very beginning. I started being obsessed with educational inequalities already during my bachelor and master. In my PhD, I want to go one step further by investingating educational inequalities taking into account also genetics differences. 
+I am interested in **social stratification and educational inequalities** since the very beginning. I started being obsessed with educational inequalities already during my bachelor and master. In my PhD, I want to go one step further by investingating educational inequalities taking into account also for **genetics**. 
 
 
 Contact me
