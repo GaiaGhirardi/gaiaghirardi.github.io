@@ -6,11 +6,11 @@ author_profile: true
 Research
 =====
 
+<img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
+
 # <span style="color:#52adc8"> Research topics </span>
 
 social stratification, sociogenomics, educational inequalities
-
-<img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
 
 # <span style="color:#52adc8"> Ongoing projects </span>
 
