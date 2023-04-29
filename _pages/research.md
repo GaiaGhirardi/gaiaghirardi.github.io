@@ -6,8 +6,6 @@ author_profile: true
 Research
 =====
 
-<img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
-
 # <span style="color:#52adc8"> Research topics </span>
 
 social stratification, sociogenomics, educational inequalities
@@ -35,3 +33,4 @@ The importance of early childhood education and care (ECEC) for fostering childr
 </details>
 <br>
 
+<img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
