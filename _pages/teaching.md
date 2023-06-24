@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
- * Class titled "Three applications in sociogenomics" (2023)
+ * Class titled "Three applications in sociogenomics" at University of Bologna (2023)
    * Department of Statistics: Sociogenomics (Prof. Dr. Nicola Barban) 
 
 
