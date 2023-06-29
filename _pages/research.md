@@ -22,10 +22,9 @@ This study investigates the extent to which the genetic propensity for education
 <summary>Read more</summary>
 Genes (G) and environments (E) predict education, but findings on G×E interactions are mixed. The Scarr-Rowe hypothesis claims that enriched environments allow individuals’ genetic potential to unfold, while the compensatory hypothesis expects that negative traits for educational attainment—low genetic propensity—are hardly detrimental for advantaged children. We test these competing hypotheses using pre-registered research designs and the Netherlands Twin Register genotyped panel. We contribute by (1) untangling education via polygenic indexes (PGI) for cognitive and noncognitive skills; (2) investigating childhood-to-adulthood educational outcomes; and (3) triangulating from between (trio design)- and within-family models to enhance causal inference. We report two findings. First, for secondary-school grades,  standardised national test scores, and adult attainment, G×E interactions are  nonsignificant over designs. Second, across designs, cognitive skills PGI are less predictive of tracking for high-SES n than low-SES children, which supports a robust negative G×E interaction. Findings suggest compensation for cognitive skills’ PGI might take place for critical educational outcomes. We discuss implications for social stratification and sociogenomics research surrounding debates on equal opportunity and compensatory school policy.
 </details>
-
 <details>
 <summary>Pre-registration</summary>
-
+<details>
 <br>
 
 ##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
