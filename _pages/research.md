@@ -14,6 +14,7 @@ This study investigates the extent to which the genetic propensity for education
 </details>
 <details>
 <summary>Pre-print</summary>
+[Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
 </details>
 <br>
 
