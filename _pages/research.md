@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: ""
 permalink: /research/
 author_profile: true
@@ -14,9 +15,13 @@ This study investigates the extent to which the genetic propensity for education
 </details>
 <details>
 <summary>Pre-print</summary>
+
 [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
+
 </details>
 <br>
+
+
 
 ##  Ghirardi, G., Gil-Hernández, G., Bernardi, F., van Bergen, & E., Demange, P., The interaction between family’s SES and genetic propensity for cognitive and non-cognitive skills on educational outcomes
 <details>
