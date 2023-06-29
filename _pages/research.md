@@ -24,7 +24,7 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 </details>
 <details>
 <summary>Pre-registration</summary>
-<details>
+</details>
 <br>
 
 ##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
