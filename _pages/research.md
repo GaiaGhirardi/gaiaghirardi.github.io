@@ -25,6 +25,7 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 </details>
 <details>
 <summary>Pre-registration</summary>
+[Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1) 
 </details>
 <br>
 
