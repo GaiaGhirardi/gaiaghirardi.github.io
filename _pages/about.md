@@ -12,20 +12,21 @@ redirect_from:
 
 I'm a [sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi) at the Department of Political and Social Science at the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence. 
 
-My PhD project is about **how genes and environment interact in shaping social inequality in educational attainment.** 
+I am a sociologist with research interests in educational inequalities, social stratification, early childhood, and sociogenomics. 
 
-I am interested in **social stratification and educational inequalities** since the very beginning. I started being obsessed with educational inequalities already during my bachelor's and master's. In my PhD, I want to go one step further by investinging educational inequalities taking into account also for **genetics**. 
+In my PhD project, I study **how genes and environment interact in shaping social inequality in educational attainment**. Using decades of sociological theories and knowledge, in my PhD I investigate educational inequalities including **genetics data**. 
 
-![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
+Overall, my research aims to understand the *reproduction of social inequality* on various socio-demographic and health outcomes. I first focused on the role of childcare arrangements in social inequalities in children's competencies. Then, going a step further, I start investigating how family socioeconomic status mediates genetic associations on different outcomes, such as educational attainment.
 
 ---
 
 **Research fields**:   
 * Social stratification
 * Educational inequalities
+* Sociogenomics
 * Early childhood
-* Social science genetics 
-  
+
+  ![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
 
 
 
