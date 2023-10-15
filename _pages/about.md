@@ -26,7 +26,7 @@ My research aims to understand the *reproduction of social inequality* on variou
 * Sociogenomics
 * Early childhood
 
-  ![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
+![](http://gaiaghirardi.github.io/images/bybike1.jpeg)
 
 
 
