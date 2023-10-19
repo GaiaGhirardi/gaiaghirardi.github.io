@@ -18,9 +18,6 @@ This study investigates the extent to which the genetic propensity for education
 [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
 
 
-
-
-
 ##  Ghirardi, G., Gil-Hernández, G., Bernardi, F., van Bergen, & E., Demange, P., The interaction between family’s SES and genetic propensity for cognitive and non-cognitive skills on educational outcomes
 <details>
 <summary>Abstract</summary>
@@ -30,6 +27,12 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 
 [Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1) 
 
+##  Bernardi, F., & Ghirardi, G., Parental separation, children’s educational attainment, and sociogenomics: Explaining the largest penalty for children of high-SES families
+<details>
+<summary>Abstract</summary>
+Previous studies have established a negative impact of parental separation on children’s educational attainment, which is stronger among children from high socio-economic status (SES) backgrounds. This study aims to understand why parental separation appears to have a stronger negative impact on high-SES children. Specifically, we investigate whether the observed larger parental separation penalty for educational attainment for high-SES children is concentrated among those with a low genetic propensity for education. This phenomenon could be attributed to parental separation preventing high-SES parents' ability to compensate for their children's low genetic propensity for education. We conduct the same analysis on two datasets, the National Longitudinal Study of Adolescent to Adult Health, and the Health and Retirement Study, both of which contain genetic and socio-demographic information. Our findings reveal that high-SES children with low genetic propensity for educational attainment are less likely to complete college in comparison with their peers with higher genetic propensity. Overall, our results suggest that the evidence of a stronger separation penalty for advantaged children is due to missing compensation among them.
+</details>
+<br>
 
 ##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
 <details>
