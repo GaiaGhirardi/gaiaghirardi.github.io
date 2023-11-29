@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a [sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi) at the Department of Political and Social Science at the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence. Now visiting UNED in Madrid.  
+I'm a [sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi) at the Department of Political and Social Science at the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence. Now visiting at the UNED, Madrid.  
 
 I am a sociologist with research interests in educational inequalities, social stratification, sociogenomics,and early childhood. 
 
