@@ -10,13 +10,15 @@ redirect_from:
 
 
 
-I'm a [sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi) at the Department of Political and Social Science at the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence. 
+I'm a [sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi) at the Department of Political and Social Science at the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence. Now visiting UNED in Madrid.  
 
-I am a sociologist with research interests in educational inequalities, social stratification, early childhood, and sociogenomics. 
+I am a sociologist with research interests in educational inequalities, social stratification, sociogenomics,and early childhood. 
 
-In my PhD project, I study how genes and environment interact in shaping social inequality in educational attainment. Using decades of sociological theories and knowledge, in my PhD I investigate educational inequalities including genetics data. 
+My research aims to understand the *intergenerational transmission* of socio-demographic and health outcomes. I investigate 1) the role of childcare arrangements and parenting on the reproduction of social inequalities, and 2) the role of family socioeconomic status in moderating the genetic associations on educational and health outcomes.  
 
-My research aims to understand the *reproduction of social inequality* on various socio-demographic and health outcomes. Specifically, I investigate 1) the role of childcare arrangements and parenting on social inequalities in children's competencies, and 2) how family socioeconomic status mediates genetic associations on different outcomes (e.g., educational attainment, BMI)
+In particular, in PhD project, I study how genes and environment interact in shaping social inequality in educational attainment and health outcomes. Using decades of sociological theories and knowledge, in my PhD I investigate educational inequalities including genetics data. 
+
+
 
 ---
 
