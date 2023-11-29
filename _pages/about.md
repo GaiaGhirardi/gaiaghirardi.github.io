@@ -18,8 +18,7 @@ My research aims to understand the *intergenerational transmission* of social in
 * The role of parenting and different childcare arrangements on the reproduction of social inequalities, and
 * The role of family socioeconomic status in moderating the genetic associations on educational and health outcomes  
 
-In PhD project, I study how genes and environment interact in shaping social inequality in educational attainment and health outcomes. Using decades of sociological theories and knowledge, in my PhD I investigate educational inequalities including genetics data. 
-
+In my PhD project, I focus on gene-environment interaction (GxE) to understand how genes and the environment interact in shaping social inequality in education and health. Using sociological theories and decades of knowledge, my research specifically explores educational inequalities, incorporating genetic data.
 
 
 ---
