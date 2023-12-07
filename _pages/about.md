@@ -14,9 +14,7 @@ I'm a [sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi) at the
 
 I am a sociologist with research interests in educational inequalities, social stratification, sociogenomics, and early childhood. 
 
-My research aims to understand the *intergenerational transmission* of social inequalities in socio-demographic and health outcomes. In particular, I investigate: 
-* The role of parenting and different childcare arrangements on the reproduction of social inequalities, and
-* The role of family socioeconomic status in moderating the genetic associations on educational and health outcomes  
+My research aims to understand the *intergenerational transmission* of social inequalities in socio-demographic and health outcomes using also genetics data. 
 
 In my PhD project, I focus on gene-environment interaction (GxE) to understand how genes and the environment interact in shaping social inequality in education and health. Using sociological theories and decades of knowledge, my research specifically explores educational inequalities, incorporating genetic data.
 
