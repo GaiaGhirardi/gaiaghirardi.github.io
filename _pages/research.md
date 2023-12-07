@@ -27,6 +27,8 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 
 [Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1) 
 
+[Here the pre-print](https://publications.jrc.ec.europa.eu/repository/handle/JRC135358)
+
 ##  Bernardi, F., & Ghirardi, G., Parental separation, children’s educational attainment, and sociogenomics: Explaining the largest penalty for children of high-SES families
 <details>
 <summary>Abstract</summary>
