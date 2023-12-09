@@ -16,7 +16,7 @@ I am a sociologist with research interests in educational inequalities, social s
 
 My research aims to understand the *intergenerational transmission* of social inequalities in socio-demographic and health outcomes using also genetics data. 
 
-In my PhD project, I focus on gene-environment interaction (GxE) to understand how genes and the environment interact in shaping social inequality in education and health. Using sociological theories and knowledge, my research explores educational inequalities incorporating genetic data.
+In my PhD project, I focus on gene-environment interaction (GxE) to understand how genes and the environment interact in shaping social inequality in education and health. Using sociological theories and knowledge, my PhD thesis explores educational inequalities incorporating genetic data.
 
 
 ---
