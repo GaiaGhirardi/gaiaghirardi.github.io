@@ -43,4 +43,17 @@ The importance of early childhood education and care (ECEC) for fostering childr
 </details>
 <br>
 
+
+##  Ghirardi, G., & Gioachin, F. The role of different childcare arrangements on social inequalities in children's early cognitive competencies: A research note
+<details>
+<summary>Abstract</summary>
+This research note investigates how childcare arrangements under age three affect early social inequalities in children’s competencies, relying on a novel decomposition approach (Yu and Elwert 2023). This approach allows us to provide a comprehensive evaluation of different childcare arrangements within a potential outcome framework, revealing not only the overall relevance of each childcare arrangement but also the importance of specific channels impacting social disparities such as prevalence (unequal exposure), effect (heterogeneous effect), and selection (within-group propensity to treatment). Using the newborn cohort of the German National Educational Panel Study (NEPS - SC1), we assess the impact of early childhood education and care (ECEC), family day-care, grandparental care, and exclusive parental care on children’s competencies in mathematics and vocabulary at ages 4 and 5. Findings highlight ECEC as the most effective approach in reducing social disparities, positively influencing children from lower socio-economic backgrounds. Conversely, exclusive parental care and family day-care increase social disparities, benefiting children from higher socio-economic backgrounds while negatively affecting those from lower backgrounds. This comprehensive evaluation identifies channels impacting social inequalities, contributing to understanding the nuanced role of childcare arrangements in shaping early social inequalities in children’s competencies.
+</details>
+<br>
+
+[Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk)
+
+
+
+
 <img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
