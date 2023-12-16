@@ -16,7 +16,7 @@ This study investigates the extent to which the genetic propensity for education
 <br>
 
 <details>
-<summary>Link preprint</summary>
+<summary>Link pre-print</summary>
   
 [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
 
@@ -27,10 +27,16 @@ This study investigates the extent to which the genetic propensity for education
 <summary>Abstract</summary>
 Genes (G) and environments (E) predict education, but findings on G×E interactions are mixed. The Scarr-Rowe hypothesis claims that enriched environments allow individuals’ genetic potential to unfold, while the compensatory hypothesis expects that negative traits for educational attainment—low genetic propensity—are hardly detrimental for advantaged children. We test these competing hypotheses using pre-registered research designs and the Netherlands Twin Register genotyped panel. We contribute by (1) untangling education via polygenic indexes (PGI) for cognitive and noncognitive skills; (2) investigating childhood-to-adulthood educational outcomes; and (3) triangulating from between (trio design)- and within-family models to enhance causal inference. We report two findings. First, for secondary-school grades,  standardised national test scores, and adult attainment, G×E interactions are  nonsignificant over designs. Second, across designs, cognitive skills PGI are less predictive of tracking for high-SES n than low-SES children, which supports a robust negative G×E interaction. Findings suggest compensation for cognitive skills’ PGI might take place for critical educational outcomes. We discuss implications for social stratification and sociogenomics research surrounding debates on equal opportunity and compensatory school policy.
 </details>
-<br>
+<be>
 
+<details>
+<summary>Link preregistration</summary>
+  
 [Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1) 
 
+</details>
+<be>
+  
 [Here the pre-print](https://publications.jrc.ec.europa.eu/repository/handle/JRC135358)
 
 ##  Bernardi, F., & Ghirardi, G., Socioeconomic status, genes, and the differential effects of parental separation on educational attainment
