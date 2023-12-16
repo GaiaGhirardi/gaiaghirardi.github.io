@@ -38,15 +38,6 @@ Previous studies have established a negative impact of parental separation on ch
 
 [Here the pre-print](https://osf.io/preprints/socarxiv/rgzd7)
 
-
-##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
-<details>
-<summary>Abstract</summary>
-The importance of early childhood education and care (ECEC) for fostering children’s development and reducing early inequalities is widely recognized by previous studies. However, much of this evidence refers to pre-school (i.e., to 3-to 5-year-olds), and mainly stems from randomized evaluations of small-scale intensive programs based in the United States and other English-speaking countries. This study thus examines the impact of ECEC under the age of 3 on children’s development and its role in tackling the early social inequality in such outcomes in France. We ask whether attending ECEC at age 2 has a positive (or negative) impact on children’s developmental outcomes and if the role of ECEC on child development is different according to the family’s socio-economic status (SES). We address these questions, using the Étude Longitudinale Français depuis l’Enfance (Elfe), and ordinary least squares (OLS) models with inverse probability weight (IPW) to account for confounding bias possibly arising from selection into care arrangements. Our findings show that ECEC attendance positively affects children’s development and that disadvantaged children benefit more in children’s global development from attending ECEC. These results suggest that ECEC institutions may be an effective tool to reduce social inequalities in some, but not all, early child developmental outcomes.
-</details>
-<br>
-
-
 ##  Ghirardi, G., & Gioachin, F. The role of different childcare arrangements on social inequalities in children's early cognitive competencies: A research note
 <details>
 <summary>Abstract</summary>
@@ -55,6 +46,13 @@ This research note investigates how childcare arrangements under age three affec
 <br>
 
 [Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk)
+
+##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
+<details>
+<summary>Abstract</summary>
+The importance of early childhood education and care (ECEC) for fostering children’s development and reducing early inequalities is widely recognized by previous studies. However, much of this evidence refers to pre-school (i.e., to 3-to 5-year-olds), and mainly stems from randomized evaluations of small-scale intensive programs based in the United States and other English-speaking countries. This study thus examines the impact of ECEC under the age of 3 on children’s development and its role in tackling the early social inequality in such outcomes in France. We ask whether attending ECEC at age 2 has a positive (or negative) impact on children’s developmental outcomes and if the role of ECEC on child development is different according to the family’s socio-economic status (SES). We address these questions, using the Étude Longitudinale Français depuis l’Enfance (Elfe), and ordinary least squares (OLS) models with inverse probability weight (IPW) to account for confounding bias possibly arising from selection into care arrangements. Our findings show that ECEC attendance positively affects children’s development and that disadvantaged children benefit more in children’s global development from attending ECEC. These results suggest that ECEC institutions may be an effective tool to reduce social inequalities in some, but not all, early child developmental outcomes.
+</details>
+<br>
 
 
 
