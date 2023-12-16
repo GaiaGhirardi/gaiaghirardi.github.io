@@ -13,7 +13,7 @@ author_profile: true
 <summary>Abstract</summary>
 This study investigates the extent to which the genetic propensity for education matters for the final educational attainment of high- or low-SES students. Previous research addressing this question has been guided by the Scarr-Rowe hypothesis which predicts that genetic influences are maximized in high-SES families. However, the empirical evidence is mixed. We propose a model that integrates compensatory and boosting advantage models from social stratification research in sociogenomics highlighting the role of educational outcome selectivity. Our model predicts that in the case of educational outcomes characterized by a low level of selectivity, such as high-school completion, genes matter more for low-SES individuals, while for outcomes characterized by a high level of selectivity, such as graduate school completion, genes matter more for high-SES individuals. We test our model, replicating the same analyses on three different datasets with genotype information, the National Longitudinal Study of Adolescent to Adult Health, the Health and Retirement Study, and the Wisconsin Longitudinal Study. The results are in line with our predictions. Our theoretical model can explain previous heterogeneous findings in the literature and can be generalized to develop testable hypotheses for other cohorts in the United States and other countries.
 </details>
-<br>
+<be>
 
 <details>
 <summary>Link pre-print</summary>
@@ -36,9 +36,15 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 
 </details>
 <be>
+
+<details>
+<summary>Link preprint</summary> 
   
 [Here the pre-print](https://publications.jrc.ec.europa.eu/repository/handle/JRC135358)
 
+</details>
+<be>
+  
 ##  Bernardi, F., & Ghirardi, G., Socioeconomic status, genes, and the differential effects of parental separation on educational attainment
 <details>
 <summary>Abstract</summary>
@@ -46,17 +52,30 @@ Previous studies have established a negative impact of parental separation on ch
 </details>
 <be>
 
+<details>
+<summary>Link preprint</summary> 
+  
 [Here the pre-print](https://osf.io/preprints/socarxiv/rgzd7)
+
+</details>
+<be>
+
 
 ##  Ghirardi, G., & Gioachin, F. The role of different childcare arrangements on social inequalities in children's early cognitive competencies: A research note
 <details>
 <summary>Abstract</summary>
 This research note investigates how childcare arrangements under age three affect early social inequalities in children’s competencies, relying on a novel decomposition approach (Yu and Elwert 2023). This approach allows us to provide a comprehensive evaluation of different childcare arrangements within a potential outcome framework, revealing not only the overall relevance of each childcare arrangement but also the importance of specific channels impacting social disparities such as prevalence (unequal exposure), effect (heterogeneous effect), and selection (within-group propensity to treatment). Using the newborn cohort of the German National Educational Panel Study (NEPS - SC1), we assess the impact of early childhood education and care (ECEC), family day-care, grandparental care, and exclusive parental care on children’s competencies in mathematics and vocabulary at ages 4 and 5. Findings highlight ECEC as the most effective approach in reducing social disparities, positively influencing children from lower socio-economic backgrounds. Conversely, exclusive parental care and family day-care increase social disparities, benefiting children from higher socio-economic backgrounds while negatively affecting those from lower backgrounds. This comprehensive evaluation identifies channels impacting social inequalities, contributing to understanding the nuanced role of childcare arrangements in shaping early social inequalities in children’s competencies.
 </details>
-<br>
+<be>
+
+<details>
+<summary>Link preprint</summary> 
 
 [Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk)
 
+</details>
+<be>
+  
 ##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
 <details>
 <summary>Abstract</summary>
