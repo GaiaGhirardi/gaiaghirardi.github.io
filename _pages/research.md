@@ -15,13 +15,8 @@ This study investigates the extent to which the genetic propensity for education
 </details>
 <br>
 
-<details>
-<summary>Link pre-print</summary>
-  
 [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
 
-</details>
-<br>
 
 ##  Ghirardi, G., Gil-Hernández, G., Bernardi, F., van Bergen, & E., Demange, P., The interaction between family’s SES and genetic propensity for cognitive and non-cognitive skills on educational outcomes
 <details>
@@ -30,21 +25,11 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 </details>
 <br>
 
-<details>
-<summary>Link preregistration</summary>
-  
 [Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1) 
 
-</details>
-<br>
 
-<details>
-<summary>Link preprint</summary> 
-  
 [Here the pre-print](https://publications.jrc.ec.europa.eu/repository/handle/JRC135358)
 
-</details>
-<br>
   
 ##  Bernardi, F., & Ghirardi, G., Socioeconomic status, genes, and the differential effects of parental separation on educational attainment
 <details>
@@ -53,13 +38,7 @@ Previous studies have established a negative impact of parental separation on ch
 </details>
 <br>
 
-<details>
-<summary>Link preprint</summary> 
-  
 [Here the pre-print](https://osf.io/preprints/socarxiv/rgzd7)
-
-</details>
-<br>
 
 
 ##  Ghirardi, G., & Gioachin, F. The role of different childcare arrangements on social inequalities in children's early cognitive competencies: A research note
@@ -69,13 +48,8 @@ This research note investigates how childcare arrangements under age three affec
 </details>
 <br>
 
-<details>
-<summary>Link preprint</summary> 
-
 [Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk)
 
-</details>
-<br>
   
 ##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
 <details>
