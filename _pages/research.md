@@ -21,13 +21,14 @@ This study investigates the extent to which the genetic propensity for education
 [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
 
 </details>
+<br>
 
 ##  Ghirardi, G., Gil-Hernández, G., Bernardi, F., van Bergen, & E., Demange, P., The interaction between family’s SES and genetic propensity for cognitive and non-cognitive skills on educational outcomes
 <details>
 <summary>Abstract</summary>
 Genes (G) and environments (E) predict education, but findings on G×E interactions are mixed. The Scarr-Rowe hypothesis claims that enriched environments allow individuals’ genetic potential to unfold, while the compensatory hypothesis expects that negative traits for educational attainment—low genetic propensity—are hardly detrimental for advantaged children. We test these competing hypotheses using pre-registered research designs and the Netherlands Twin Register genotyped panel. We contribute by (1) untangling education via polygenic indexes (PGI) for cognitive and noncognitive skills; (2) investigating childhood-to-adulthood educational outcomes; and (3) triangulating from between (trio design)- and within-family models to enhance causal inference. We report two findings. First, for secondary-school grades,  standardised national test scores, and adult attainment, G×E interactions are  nonsignificant over designs. Second, across designs, cognitive skills PGI are less predictive of tracking for high-SES n than low-SES children, which supports a robust negative G×E interaction. Findings suggest compensation for cognitive skills’ PGI might take place for critical educational outcomes. We discuss implications for social stratification and sociogenomics research surrounding debates on equal opportunity and compensatory school policy.
 </details>
-<be>
+<br>
 
 <details>
 <summary>Link preregistration</summary>
@@ -35,7 +36,7 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 [Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1) 
 
 </details>
-<be>
+<br>
 
 <details>
 <summary>Link preprint</summary> 
@@ -43,14 +44,14 @@ Genes (G) and environments (E) predict education, but findings on G×E interacti
 [Here the pre-print](https://publications.jrc.ec.europa.eu/repository/handle/JRC135358)
 
 </details>
-<be>
+<br>
   
 ##  Bernardi, F., & Ghirardi, G., Socioeconomic status, genes, and the differential effects of parental separation on educational attainment
 <details>
 <summary>Abstract</summary>
 Previous studies have established a negative impact of parental separation on children’s educational attainment, which is stronger among children from high socio-economic status (SES) backgrounds. This study aims to understand why parental separation appears to have a stronger negative impact on high-SES children. Specifically, we investigate whether the observed larger parental separation penalty for educational attainment for high-SES children is concentrated among those with a low genetic propensity for education. This phenomenon could be attributed to parental separation preventing high-SES parents' ability to compensate for their children's low genetic propensity for education. We conduct the same analysis on two datasets, the National Longitudinal Study of Adolescent to Adult Health, and the Health and Retirement Study, both of which contain genetic and socio-demographic information. Our findings reveal that high-SES children with low genetic propensity for educational attainment are less likely to complete college in comparison with their peers with higher genetic propensity. Overall, our results suggest that the evidence of a stronger separation penalty for advantaged children is due to missing compensation among them.
 </details>
-<be>
+<br>
 
 <details>
 <summary>Link preprint</summary> 
@@ -58,7 +59,7 @@ Previous studies have established a negative impact of parental separation on ch
 [Here the pre-print](https://osf.io/preprints/socarxiv/rgzd7)
 
 </details>
-<be>
+<br>
 
 
 ##  Ghirardi, G., & Gioachin, F. The role of different childcare arrangements on social inequalities in children's early cognitive competencies: A research note
@@ -66,7 +67,7 @@ Previous studies have established a negative impact of parental separation on ch
 <summary>Abstract</summary>
 This research note investigates how childcare arrangements under age three affect early social inequalities in children’s competencies, relying on a novel decomposition approach (Yu and Elwert 2023). This approach allows us to provide a comprehensive evaluation of different childcare arrangements within a potential outcome framework, revealing not only the overall relevance of each childcare arrangement but also the importance of specific channels impacting social disparities such as prevalence (unequal exposure), effect (heterogeneous effect), and selection (within-group propensity to treatment). Using the newborn cohort of the German National Educational Panel Study (NEPS - SC1), we assess the impact of early childhood education and care (ECEC), family day-care, grandparental care, and exclusive parental care on children’s competencies in mathematics and vocabulary at ages 4 and 5. Findings highlight ECEC as the most effective approach in reducing social disparities, positively influencing children from lower socio-economic backgrounds. Conversely, exclusive parental care and family day-care increase social disparities, benefiting children from higher socio-economic backgrounds while negatively affecting those from lower backgrounds. This comprehensive evaluation identifies channels impacting social inequalities, contributing to understanding the nuanced role of childcare arrangements in shaping early social inequalities in children’s competencies.
 </details>
-<be>
+<br>
 
 <details>
 <summary>Link preprint</summary> 
@@ -74,7 +75,7 @@ This research note investigates how childcare arrangements under age three affec
 [Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk)
 
 </details>
-<be>
+<br>
   
 ##  Berger, L., Ghirardi, G., Panico L., & Solaz, A., The impact of early formal childcare attendance and exposure on children’s developmental outcomes in France
 <details>
