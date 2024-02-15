@@ -7,7 +7,7 @@ author_profile: true
 
 # <span style="color:#52adc8"> Selected ongoing projects </span>
 
-# <span style="color:#303a50"> Sociogenomics </span>
+# <span style="color:#a67b40"> Sociogenomics </span>
 
 Ghirardi, & G. Bernardi, F. Re-theorizing GxE research on education by degree of outcome selectivity? [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
 <details>
@@ -38,7 +38,7 @@ This study investigates whether children's genetic propensity for externalizing 
 </details>
 <br>
 
-# <span style="color:#303a50"> Early childhood and care </span>
+# <span style="color:#a67b40"> Early childhood and care </span>
 
 Ghirardi, G., & Gioachin, F. The role of different childcare arrangements on social inequalities in children's early cognitive competencies: A research note. [Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk)
 <details>
