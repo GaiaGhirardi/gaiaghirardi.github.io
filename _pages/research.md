@@ -15,6 +15,7 @@ author_profile: true
 This study investigates the extent to which the genetic propensity for education matters for the final educational attainment of high- or low-SES students. Previous research addressing this question has been guided by the Scarr-Rowe hypothesis which predicts that genetic influences are maximized in high-SES families. However, the empirical evidence is mixed. We propose a model that integrates compensatory and boosting advantage models from social stratification research in sociogenomics highlighting the role of educational outcome selectivity. Our model predicts that in the case of educational outcomes characterized by a low level of selectivity, such as high-school completion, genes matter more for low-SES individuals, while for outcomes characterized by a high level of selectivity, such as graduate school completion, genes matter more for high-SES individuals. We test our model, replicating the same analyses on three different datasets with genotype information, the National Longitudinal Study of Adolescent to Adult Health, the Health and Retirement Study, and the Wisconsin Longitudinal Study. The results are in line with our predictions. Our theoretical model can explain previous heterogeneous findings in the literature and can be generalized to develop testable hypotheses for other cohorts in the United States and other countries.
 </details>
 <br>
+[Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
 
 
 ## Ghirardi, & G. Bernardi, F. Re-theorizing GxE research on education by degree of outcome selectivity
@@ -24,7 +25,7 @@ This study investigates the extent to which the genetic propensity for education
 </details>
 <br>
 
-[Here the pre-print](https://osf.io/preprints/socarxiv/2xny7/)  
+
 
 
 ##  Ghirardi, G., Gil-Hernández, G., Bernardi, F., van Bergen, & E., Demange, P., The interaction between family’s SES and genetic propensity for cognitive and non-cognitive skills on educational outcomes
