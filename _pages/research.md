@@ -36,7 +36,7 @@ Ghirardi, G., Wolfram, T., Ruks, M., & Tropf, F., Genetic propensity for externa
 <summary>Abstract</summary>
 This study investigates whether children's genetic propensity for externalizing behaviours influences their likelihood of experiencing adverse outcomes in high school and whether this relationship varies by family socioeconomic status (SES). According to behavioral genetics and social stratification theories, such as the diathesis-stress and compensatory advantage models, we test whether there is a stronger genetic association to adverse outcomes among low-SES children. Drawing on data from the National Longitudinal Study of Adolescent to Adult Health (Add Health) from the US and the British National Child Development Study (NCDS), we construct a polygenic index (PGI) for externalizing behaviours. Our analysis examines the impact of this PGI on adverse high-school outcomes, including failure, suspension, expulsion, absence, and misbehaviors, and explores its interaction with family SES. The findings reveal two key insights. First, a higher genetic propensity for externalizing behaviours increases the likelihood of experiencing adverse high-school outcomes. Second, the genetic propensity for externalizing behaviours is more predictive of adverse high-school outcomes among low-SES children compared to high-SES children. These results are robust to different model specifications, except for high-school suspension and expulsion. Our results suggest that high-SES families compensate for their children's high genetic propensity for externalizing behaviours, whereas low-SES families trigger these genetic propensities in their children.
 </details>
-<be>
+<br>
 
 # <span style="color:#303a50"> Early childhood and care </span>
 
