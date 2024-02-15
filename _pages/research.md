@@ -38,6 +38,14 @@ This study investigates whether children's genetic propensity for externalizing 
 </details>
 <br>
 
+Breinholt, A., & Ghirardi, G., The interaction between socioeconomic status and genetic propensity for education:
+A systematic review and meta-analysis of molecular studies 
+<details>
+<summary>Abstract</summary>
+A growing body of research investigates whether genetic influences on educational outcomes can be suppressed or boosted by the environment in which an individual lives. Indeed, several studies have examined the interaction between the genetic propensity for education and the socioeconomic status (SES) of the family of origin, the neighborhood, or school - so-called GxSES studies. However, results are mixed. Some studies find stronger associations between genetic propensities and educational outcomes in high-SES environments, while other studies find stronger associations in low-SES environments. In this work, we conduct a systematic review and meta-analysis of studies that investigated the interaction between genetic propensity for education and SES on measures of educational attainment and achievement. We focus on studies relying on molecular genetic information in the form of polygenic indices (PGI). This study aims to answer the following questions: (1) Does the genetic propensity for education matter more for educational outcomes in high or low-SES environments? (2) Which factors may explain the inconsistent findings of the previous literature? To address these questions, we collect results from both published and working papers investigating the interaction of interest and using molecular data.
+</details>
+<br>
+
 # <span style="color:#a67b40"> Early childhood and care </span>
 
 Ghirardi, G., & Gioachin, F. The role of different childcare arrangements on social inequalities in children's early cognitive competencies: A research note. [Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk)
