@@ -12,4 +12,6 @@ author_profile: true
       * Department of sociology (BA level): Quantitative Methods in Sociology (Prof. Dr. Enrico Rettore) 
       * Department of sociology (BA level): Quantitative Methods in International Studies (Prof. Dr. Stefano Benati)
 
+<div align="center">
 <img src="http://gaiaghirardi.github.io/images/tea.jpeg" width="350" />
+</div>
