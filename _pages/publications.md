@@ -13,3 +13,4 @@ How attending childcare and education centres affects children’s cognitive and
 
 
 
+<img src="http://gaiaghirardi.github.io/images/journals.pdf" width="350" />
