@@ -12,5 +12,6 @@ Interaction of family SES with children’s genetic propensity for cognitive and
 How attending childcare and education centres affects children’s cognitive and socio-emotional skills in Germany. _European Sociological Review_ - [Here to access the paper](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcac048/6786025?redirectedFrom=fulltext&login=true)
 
 
-
+<div align="center">
 <img src="http://gaiaghirardi.github.io/images/journals.pdf" width="350" />
+</div>
