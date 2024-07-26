@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Ghirardi G.**,  Gil-Hernández C., Bernardi F., van Bergen E., Demange P. (2024
+- **Ghirardi G.**,  Gil-Hernández C., Bernardi F., van Bergen E., Demange P. (2024)
 Interaction of family SES with children’s genetic propensity for cognitive and noncognitive skills: No evidence of the Scarr-Rowe hypothesis for educational outcomes _Research in Social Stratification and Mobility_ - [Here to access the paper](https://www.sciencedirect.com/science/article/pii/S0276562424000738?ref=cra_js_challenge&fr=RR-1)
 
 - **Ghirardi G.**, Baier T., Kleinert C., Triventi M., (2022) Is early formal childcare an equalizer?
