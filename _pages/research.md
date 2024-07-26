@@ -16,14 +16,6 @@ This study investigates the extent to which the genetic propensity for education
 </details>
 <br>
 
-
-**Ghirardi, G.**, Gil-Hernández, G., Bernardi, F., van Bergen, & E., Demange, P., Interaction of family SES with children’s genetic propensity for cognitive and noncognitive skills: No evidence of the Scarr-Rowe hypothesis for educational outcomes [Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1) - [Here the pre-print](https://publications.jrc.ec.europa.eu/repository/handle/JRC135358)
-<details>
-<summary>Abstract</summary>
-This study examines the role of genes and environments in predicting educational outcomes. We test the Scarr-Rowe hypothesis, suggesting that enriched environments enable genetic potential to unfold, and the compensatory advantage hypothesis, proposing that low genetic endowments have less impact on education for children from high socio-economic status (SES) families. We use a pre-registered design with Netherlands Twin Register data (426 ≤ n individuals ≤ 3,875). We build polygenic indexes (PGIs) for cognitive and noncognitive skills to predict seven educational outcomes across three designs (between-family, within-family, and trio) accounting for different confounding sources, totalling 2x7x3=42 analyses. Cognitive PGIs, noncognitive PGIs, and parental education positively predict educational outcomes. Supporting the compensatory hypothesis, 36/42 PGIxSES interactions are negative, but only three are significant after multiple-testing corrections (p-value < 0.007). In contrast, the Scarr-Rowe hypothesis lacks empirical support, with just three non-significant positive interactions. Overall, we emphasise the need for future replication studies in larger samples. Our findings suggest mixing social stratification and behavioural genetics theories to illuminate the complex interplay between genes and social environments. 
-</details>
-<br>
-
 Bernardi, F., & **Ghirardi, G.**, Socioeconomic Status, Genes, and the Differential Effects of Parental Separation on Educational Attainment. [Here the pre-print](https://osf.io/preprints/socarxiv/rgzd7)
 <details>
 <summary>Abstract</summary>
