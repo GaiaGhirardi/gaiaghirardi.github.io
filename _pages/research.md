@@ -23,14 +23,6 @@ Prior research has consistently documented a more pronounced negative impact of 
 </details>
 <br>
 
-**Ghirardi, G.**, Wolfram, T., & Ruks, M., Family Socioeconomic Status Compensates and Triggers 
-Genetic Propensity for Externalizing Behavior on Adverse High School Outcomes
-<details>
-<summary>Abstract</summary>
-Previous research has investigated how genetic propensities for educational attainment and family socioeconomic status (SES) interact in shaping educational outcomes. Theoretical considerations in this line of research are leading to the Scarr-Rowe hypothesis, that genetic effects are stronger in higher SES compared to lower SES families, and genetic propensities for education are interpreted as encoding genetic potential for cognitive ability. However, various mechanisms link the genome and educational outcomes and require tailor-made theoretical consideration. This study specifically focuses on the children's genetic propensity for externalising behaviour to investigate whether this genetic propensity affects children’s likelihood of experiencing adverse educational outcomes in high school and whether this relationship varies by family SES. Drawing upon behavioural genetics and social stratification theories— the compensatory advantage or social control and diathesis-stress models—we test the predicted stronger association between the genetic propensity for externalising behaviours and adverse school outcomes among low-SES children compared to their high-SES peers. Using data from the National Longitudinal Study of Adolescent to Adult Health (Add Health) from the US, we construct a polygenic index (PGI) for externalising behaviours, and we look at different adverse high-school educational outcomes, such as school failure, suspension, expulsion, absence, and misbehaviours. The findings reveal two key insights. First, a higher genetic propensity for externalising behaviours increases the likelihood of experiencing adverse high-school outcomes. Second, the genetic propensity for externalising behaviours is more predictive of adverse high-school educational outcomes among low-SES children compared to high-SES children. The robustness of these findings is confirmed through several checks, including replication with the British National Child Development Study (NCDS), alternative modelling, correcting for biases in polygenic scores, and using various socioeconomic status measures. Our results suggest that high-SES families compensate for their children's high genetic propensity for externalizing behaviors, whereas low-SES families trigger these genetic propensities in their children. 
-</details>
-<br>
-
 Breinholt, A., & **Ghirardi, G.**, Interactions between Childhood Socioeconomic Status and Genotype on Educational Outcomes: A Novel Theoretical Typology and Meta-Analysis of Molecular Studies. [Here the pre-registration](https://osf.io/3sh2n?mode=&revisionId=&view_only=)
 <details>
 <summary>Abstract</summary>
