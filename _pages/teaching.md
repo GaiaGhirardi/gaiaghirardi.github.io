@@ -4,7 +4,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
- * Class titled "Applications in sociogenomics" at University of Bologna (2022/2023; 2023/2024)
+* Guest Lecturer ‘Analysis of genetic data’ (January 2025)
+  * Winter School on Inequality and Social Welfare Theory (Canazei, Italy)
+
+
+ * Guest Lecturer ‘Applications in sociogenomics’ at University of Bologna
+   (2022/2023; 2023/2024)
    * Department of Statistics: Sociogenomics (Prof. Dr. Nicola Barban) 
 
 
