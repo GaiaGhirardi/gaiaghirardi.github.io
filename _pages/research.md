@@ -57,6 +57,8 @@ The importance of early childhood education and care (ECEC) for fostering childr
 <br>
 
 
-
-
+<div align="center">
 <img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
+</div>
+
+
