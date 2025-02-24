@@ -9,7 +9,7 @@ author_profile: true
 
 # <span style="color:#a67b40"> Sociogenomics </span>
 
-**Ghirardi, G.** & Bernardi, F. Compensating or Boosting Genetic Propensities? Gene-Family Socioeconomic Status Interactions by Educational Outcome Selectivity [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7_v1)  (R&R) 
+• **Ghirardi, G.** & Bernardi, F. Compensating or Boosting Genetic Propensities? Gene-Family Socioeconomic Status Interactions by Educational Outcome Selectivity [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7_v1)  (R&R) 
 <details>
 <summary>Abstract</summary>
 This study investigates the extent to which the genetic propensity for education - measured using the polygenic index (PGI) for educational attainment – matters more for the final educational attainment of high or low socio-economic status (SES) students. We propose a model integrating social stratification theories, such as the compensatory and boosting advantage models, into sociogenomics, highlighting the role of educational outcome selectivity. Our model predicts that for low selective educational outcomes (e.g., high school completion), the PGI for education matters more for low- SES individuals, while for highly selective outcomes (e.g., graduate school completion), it matters more for high-SES individuals. We test our model using the National Longitudinal Study of Adolescent to Adult Health, the Health and Retirement Study, and the Wisconsin Longitudinal Study. The results corroborate our predictions and are robust to alternative models’ specifications. Our theoretical model explains previous heterogeneous findings and can be generalized to develop testable hypotheses for other cohorts in the US and other countries.
