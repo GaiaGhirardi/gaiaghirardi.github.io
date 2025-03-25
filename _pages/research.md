@@ -9,10 +9,11 @@ author_profile: true
 
 # <span style="color:#a67b40"> Sociogenomics </span>
 
-**Ghirardi, G.** & Bernardi, F. Compensating or Boosting Genetic Propensities? Gene-Family Socioeconomic Status Interactions by Educational Outcome Selectivity [Here the pre-print](https://osf.io/preprints/socarxiv/2xny7_v1)  (R&R) 
+**Ghirardi, G.**, The Development of Body Mass Index from Adolescence to Adulthood: 
+A Gene-Family Socioeconomic Status Interaction Study
 <details>
 <summary>Abstract</summary>
-This study investigates the extent to which the genetic propensity for education - measured using the polygenic index (PGI) for educational attainment – matters more for the final educational attainment of high or low socio-economic status (SES) students. We propose a model integrating social stratification theories, such as the compensatory and boosting advantage models, into sociogenomics, highlighting the role of educational outcome selectivity. Our model predicts that for low selective educational outcomes (e.g., high school completion), the PGI for education matters more for low- SES individuals, while for highly selective outcomes (e.g., graduate school completion), it matters more for high-SES individuals. We test our model using the National Longitudinal Study of Adolescent to Adult Health, the Health and Retirement Study, and the Wisconsin Longitudinal Study. The results corroborate our predictions and are robust to alternative models’ specifications. Our theoretical model explains previous heterogeneous findings and can be generalized to develop testable hypotheses for other cohorts in the US and other countries.
+Body weight in adolescence and adulthood may result from the interplay between individuals' genetic characteristics and the social context in which they grow up, such as family socioeconomic status (SES). However, evidence on the interaction between genetic propensity for high body mass index (BMI) and family SES remains inconclusive. This study investigates whether the genetic propensity for high BMI impacts BMI differently among individuals from high-SES versus low-SES families and whether this effect varies with age. Three theoretical frameworks—compensatory advantage or diathesis-stress model and social push model —are tested to predict the moderating effect of family SES on the genetic association with BMI. Drawing on data from the National Longitudinal Study of Adolescent to Adult Health (Add Health), I use the polygenic index for BMI (BMI PGI) to measure genetic propensity for body weight and analyze it at various life stages: adolescence (≃ 16 years old), early adulthood (≃ 22 years old), adulthood (≃ 28 years old), and later adulthood (≃ 37 years old). Results indicate that the BMI PGI is more predictive of BMI in individuals from low-SES families than those from high-SES families. This interaction is observed across both younger and older age groups, suggesting that the interaction between BMI PGI and family SES persists throughout the life course, especially among those who show high levels of BMI – as revealed through unconditional quantile regression. These findings underscore the importance of adopting a life-course perspective in gene-environment interaction studies and highlight the need to account for potential heterogeneity in the gene-environment effect across different levels of BMI.
 </details>
 <br>
 
@@ -30,13 +31,7 @@ A growing body of research investigates whether genetic influences on educationa
 </details>
 <br>
 
-**Ghirardi, G.**, The Development of Body Mass Index from Adolescence to Adulthood: 
-A Gene-Family Socioeconomic Status Interaction Study
-<details>
-<summary>Abstract</summary>
-Body weight in adolescence and adulthood may result from the interplay between individuals' genetic characteristics and the social context in which they grow up, such as family socioeconomic status (SES). However, evidence on the interaction between genetic propensity for high body mass index (BMI) and family SES remains inconclusive. This study investigates whether the genetic propensity for high BMI impacts BMI differently among individuals from high-SES versus low-SES families and whether this effect varies with age. Three theoretical frameworks—compensatory advantage or diathesis-stress model and social push model —are tested to predict the moderating effect of family SES on the genetic association with BMI. Drawing on data from the National Longitudinal Study of Adolescent to Adult Health (Add Health), I use the polygenic index for BMI (BMI PGI) to measure genetic propensity for body weight and analyze it at various life stages: adolescence (≃ 16 years old), early adulthood (≃ 22 years old), adulthood (≃ 28 years old), and later adulthood (≃ 37 years old). Results indicate that the BMI PGI is more predictive of BMI in individuals from low-SES families than those from high-SES families. This interaction is observed across both younger and older age groups, suggesting that the interaction between BMI PGI and family SES persists throughout the life course, especially among those who show high levels of BMI – as revealed through unconditional quantile regression. These findings underscore the importance of adopting a life-course perspective in gene-environment interaction studies and highlight the need to account for potential heterogeneity in the gene-environment effect across different levels of BMI.
-</details>
-<br>
+
 
 
 
