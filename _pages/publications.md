@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- **Ghirardi, G.**, & Bernardi F. (2025) Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity. _Social Science Research_
+- **Ghirardi, G.**, & Bernardi F. (2025) Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity. _Social Science Research_- [Here to access the paper](https://www.sciencedirect.com/science/article/pii/S0049089X25000353)
 
 
 - **Ghirardi G.**,  Gil-Hernández C., Bernardi F., van Bergen E., Demange P. (2024)
