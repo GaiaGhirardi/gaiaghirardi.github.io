@@ -17,13 +17,6 @@ Body weight in adolescence and adulthood may result from the interplay between i
 </details>
 <br>
 
-Bernardi, F., & **Ghirardi, G.**, Socioeconomic Status, Genes, and the Differential Effects of Parental Separation on Educational Attainment. [Here the pre-print](https://osf.io/preprints/socarxiv/rgzd7)  (R&R)
-<details>
-<summary>Abstract</summary>
-Prior research has consistently documented a more pronounced negative impact of parental separation on educational attainment among children from high socio-economic status (SES) backgrounds. This study leverages molecular data to investigate how the parental separation penalty on educational attainment varies by SES and children’s genetic propensity for education. We replicate the analysis on two distinct datasets, the National Longitudinal Study of Adolescent to Adult Health (Add Health) and the Health and Retirement Study (HRS), using two different dependent variables, the probability of college attainment and years of education, parametric (OLS and logit) and non-parametric models (LOWESS) and mother’s education as an indicator of family SES. Our results show that the parental separation penalty clusters among high-SES students with a low genetic propensity for education. While for high-SES students with non-separated parents, the probability of college attainment and completing more years of education is largely independent of their genetic propensity for education, it notably reduces if they have a low genetic propensity for education and their parents separate. These findings suggest that when high-SES parents separate, they experience a reduced capacity to compensate for their children's low genetic propensity for education on college attainment and years of education.
-</details>
-<br>
-
 Breinholt, A., & **Ghirardi, G.**, Interactions between Childhood Socioeconomic Status and Genotype on Educational Outcomes: A Novel Theoretical Typology and Meta-Analysis of Molecular Studies. [Here the pre-registration](https://osf.io/3sh2n?mode=&revisionId=&view_only=)
 <details>
 <summary>Abstract</summary>
