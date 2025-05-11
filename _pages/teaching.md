@@ -9,7 +9,7 @@ author_profile: true
 
 
  * Guest Lecturer ‘Applications in sociogenomics’ at University of Bologna
-   (2022/2023; 2023/2024)
+   (2022/2023; 2023/2024; 2024/2025)
    * Department of Statistics: Sociogenomics (Prof. Nicola Barban) 
 
 
