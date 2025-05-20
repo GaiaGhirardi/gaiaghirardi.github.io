@@ -10,8 +10,7 @@ redirect_from:
 
 
 
-I'm a [sociology PhD student](https://www.eui.eu/people?id=gaia-ghirardi) at the Department of Political and Social Science at the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence. I'm also a [research fellow at the University of Bologna](https://www.unibo.it/sitoweb/gaia.ghirardi) working on the [GENPOP](http://genpop.org) project. 
-
+I'm a [research fellow at the University of Bologna](https://www.unibo.it/sitoweb/gaia.ghirardi) working on the [GENPOP](http://genpop.org) project. I did my PhD in sociology at the Department of Political and Social Science at the [European University Institute (EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence.
 
 My research aims to understand the intergenerational transmission of education and health outcomes from parents to children. In my PhD project, I focused on gene-environment interaction (GxE) to understand how genetic and environmental factors interact in shaping social inequality in education and health. 
 
