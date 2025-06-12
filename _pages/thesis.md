@@ -9,13 +9,10 @@ author_profile: true
 
 My thesis can be found [here](https://cadmus.eui.eu/entities/publication/3c4e3998-e51f-40f0-a0e3-24ed7850dd8d)
 
-<div align="center">
 <img src="http://gaiaghirardi.github.io/images/Compensation_Boosting_Triggering_orizzontale.png" width="350" />
-</div>
 
-<div align="center">
 <img src="http://gaiaghirardi.github.io/images/Flowers_Sfondo.jpeg" width="350" />
-</div>
+
 
 
 
