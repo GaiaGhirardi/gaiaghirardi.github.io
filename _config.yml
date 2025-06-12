@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gaia Ghirardi"
 title_separator          : "-"
 name                     : &name "Gaia Ghirardi"
-description              : &description "Sociology PhD student at the European University Institute (Florence, Italy)"
+description              : &description "Research Fellow at the University of Bologna"
 url                      : https://gaiaghirardi.github.io # the base hostname & protocol for your site e.g. "https://gaiaghirardi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GaiaGhirardi/gaiaghirardi.github.io"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+bluesky:
+  username               : &bluesky
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gaia Ghirardi"
   avatar           : "July2024.JPEG"
-  bio              : "Sociology PhD researcher at the EUI"
-  location         : "Florence, Italy"
+  bio              : "Research Fellow at the University of Bologna"
+  location         : "Bologna, Italy"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8vDl2YAAAAAJ&hl=it&oi=ao"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@GaiaGhirardi"
+  bluesky          : "‪@gaiaghirardi.bsky.social"
   vine             :
   weibo            :
   xing             :
