@@ -10,11 +10,11 @@ main:
   - title: "PhD Thesis"
     url: /thesis/     
     
-  - title: "Teaching"
-    url: /teaching/
-    
   - title: "CV"
     url: /cv/ 
+
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Data & Code"
     url: /datacode/
