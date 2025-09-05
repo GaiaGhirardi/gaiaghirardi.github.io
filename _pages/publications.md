@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Ghirardi, G.**, The Development of Body Mass Index from Adolescence to Adulthood: A Genotype-Family Socioeconomic Status Interaction Study. _Social Science and Medicine_ - Forthcoming
+- **Ghirardi, G.**, The Development of Body Mass Index from Adolescence to Adulthood: A Genotype-Family Socioeconomic Status Interaction Study. _Social Science and Medicine_ [Here to access the paper] (https://www.sciencedirect.com/science/article/abs/pii/S0277953625008706)
 
 - **Ghirardi, G.**, & Bernardi F. (2025) Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity. _Social Science Research_ - [Here to access the paper](https://www.sciencedirect.com/science/article/pii/S0049089X25000353)
 
