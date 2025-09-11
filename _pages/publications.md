@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Ghirardi, G.**, The Development of Body Mass Index from Adolescence to Adulthood: A Genotype-Family Socioeconomic Status Interaction Study. _Social Science and Medicine_ - [Here to access the paper](https://www.sciencedirect.com/science/article/abs/pii/S0277953625008706)
+1. **Ghirardi, G.** (2025) The Development of Body Mass Index from Adolescence to Adulthood: A Genotype-Family Socioeconomic Status Interaction Study. _Social Science and Medicine_ - [Here to access the paper](https://www.sciencedirect.com/science/article/abs/pii/S0277953625008706)
 
 2. Bernardi F. & **Ghirardi, G.**, (2025) Socioeconomic Status, Genotype, and the Differential Effects of Parental Separation on Educational Attainment. _Demography_ - [Here to access the paper](https://doi.org/10.1215/00703370-11968557)
 
