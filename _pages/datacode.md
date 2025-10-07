@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### GxE in the Netherlands - _RSSM_ 
-- Interaction of Family SES with Children’s Genetic Propensity for Cognitive and Noncognitive Skills: 
-No Evidence of the Scarr-Rowe Hypothesis for Educational Outcomes (w/ Carlos Gil-Hernandez, Fabrizio Bernardi, Elsje van Bergen, Perline Demange) [Replication materials](https://github.com/GaiaGhirardi/NTR_GxE).
+- Interaction of family SES with children’s genetic propensity for cognitive and noncognitive skills: 
+No evidence of the Scarr-Rowe hypothesis for educational outcomes (w/ Carlos Gil-Hernandez, Fabrizio Bernardi, Elsje van Bergen, Perline Demange) [Replication materials](https://github.com/GaiaGhirardi/NTR_GxE).
 
 ### ECEC in Germany - _Acta Sociologica_ 
 
