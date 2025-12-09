@@ -13,7 +13,7 @@ author_profile: true
 ### ECEC in Germany - _Acta Sociologica_ 
 
 - Center-based ECEC closes gaps, others may widen them: A decomposition of how different childcare arrangements shape early educational inequality (w/ Filippo Gioachin) [Replication materials](https://github.com/GaiaGhirardi/ECEC_decomposition).
-- 
+  
 ### GxSES in the Netherlands - _RSSM_ 
 
 - Interaction of family SES with children’s genetic propensity for cognitive and noncognitive skills: 
