@@ -14,7 +14,7 @@ author_profile: true
 
 - Center-based ECEC closes gaps, others may widen them: A decomposition of how different childcare arrangements shape early educational inequality (w/ Filippo Gioachin) [Replication materials](https://github.com/GaiaGhirardi/ECEC_decomposition)
   
-### Family SES and child's genotype interaction (NTR data) - _RSSM_ 
+### Family SES-child's genotype interaction (NTR data) - _RSSM_ 
 
 - Interaction of family SES with children’s genetic propensity for cognitive and noncognitive skills: 
 No evidence of the Scarr-Rowe hypothesis for educational outcomes (w/ Carlos Gil-Hernandez, Fabrizio Bernardi, Elsje van Bergen, Perline Demange) [Replication materials](https://github.com/GaiaGhirardi/NTR_GxE)
