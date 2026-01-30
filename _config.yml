@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gaia Ghirardi"
   avatar           : "profile_eui.jpg"
-  bio              : "Research Fellow at the University of Bologna"
-  location         : "Bologna, Italy"
+  bio              : "Postdoctoral Research Fellow at the WZB"
+  location         : "Berlin, Germany"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8vDl2YAAAAAJ&hl=it&oi=ao"
-  email            : gaia.ghirardi@eui.eu
+  email            : gaia.ghirardi@wzb.eu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
