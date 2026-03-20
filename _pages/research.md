@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-1) **Ghirardi G.** & Ferrara, A. Social media use, genotype and adolescent mental health: A social push pattern among girls. [Here the working paper](XXXX)
+1) **Ghirardi G.** & Ferrara, A. Social media use, genotype and adolescent mental health: A social push pattern among girls. [Here the working paper](https://doi.org/10.31235/osf.io/g42he_v1)
 
    
 2) Bernardi, F., Ferrara, A.  & **Ghirardi G.** Unequal Luck: Chance as a Mechanism of Educational Inequality. [Here the working paper](https://osf.io/preprints/socarxiv/gjxr2_v1)
