@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a postdoctoral researcher at the [WZB Berlin Social Science Center](https://www.wzb.eu/de/personen/gaia-ghirardi) and the [Einstein Center Population Diversity (ECPD)](https://einstein-diversity.com/team-member/gaia-ghirardi/). I will also start as a [Marie Skłodowska-Curie](https://marie-sklodowska-curie-actions.ec.europa.eu) postdoctoral fellow at the University of Oxford in September 2027. 
+I'm a postdoctoral researcher at the [WZB Berlin Social Science Center](https://www.wzb.eu/de/personen/gaia-ghirardi) and the [Einstein Center Population Diversity (ECPD)](https://einstein-diversity.com/team-member/gaia-ghirardi/). I will be a [Marie Skłodowska-Curie](https://marie-sklodowska-curie-actions.ec.europa.eu) postdoctoral fellow at the University of Oxford from September 2027. 
 
 Previously, I worked as a postdoctoral researcher at the University of Bologna, as part of the GENPOP project (2025-2026). I obtained my PhD in sociology at the Department of Political and Social Science at the European University Institute (EUI) (2025) in Florence.
 
