@@ -10,7 +10,7 @@ author_profile: true
 5) Bernardi F. & **Ghirardi, G.**, (2025) Socioeconomic status, genotype, and the differential effects of parental separation on educational attainment. _Demography_ - [Here to access the paper](https://doi.org/10.1215/00703370-11968557)
 
 4)  **Ghirardi, G.**, & Gioachin, F. (2025) Center-based ECEC closes gaps, others may widen them: A
-decomposition of how different childcare arrangements shape early educational inequality. _Acta Sociologica_ [Here the pre-print](https://osf.io/preprints/socarxiv/9q6fk) 
+decomposition of how different childcare arrangements shape early educational inequality. _Acta Sociologica_ [Here the paper](https://journals.sagepub.com/doi/10.1177/00016993251389750) 
 
 3) **Ghirardi, G.**, & Bernardi F. (2025) Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity. _Social Science Research_ - [Here to access the paper](https://www.sciencedirect.com/science/article/pii/S0049089X25000353)
    
