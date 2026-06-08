@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+_Peer-reviewed journal articles_
+
 6) **Ghirardi, G.** (2025) The development of body mass index from adolescence to adulthood: A genotype-family socioeconomic status interaction Study. _Social Science and Medicine_ – [Here to access the paper](https://www.sciencedirect.com/science/article/abs/pii/S0277953625008706)
 
 5) Bernardi F. & **Ghirardi, G.**, (2025) Socioeconomic status, genotype, and the differential effects of parental separation on educational attainment. _Demography_ – [Here to access the paper](https://doi.org/10.1215/00703370-11968557)
@@ -20,4 +22,8 @@ Interaction of family SES with children’s genetic propensity for cognitive and
 1) **Ghirardi G.**, Baier T., Kleinert C., Triventi M., (2022) Is early formal childcare an equalizer?
 How attending childcare and education centres affects children’s cognitive and socio-emotional skills in Germany. _European Sociological Review_ –  [Here to access the paper](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcac048/6786025?redirectedFrom=fulltext&login=true)
 
+
+_Chapters_
+
+1) Stienstra, Kim, & **Ghirardi, G.**, Genetics of Education: From Research to Policy to Improve Educational Performance and Equality. In The Biological Turn in Education Policy: Navigating Minds eds. Mattei, Kyriazi, Ydesen, Stieger – [Here to access the chapter](https://www.elgaronline.com/edcollchap/book/9781035373222/chapter8.xml)
 
