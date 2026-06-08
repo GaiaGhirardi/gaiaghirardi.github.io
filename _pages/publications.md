@@ -25,5 +25,5 @@ How attending childcare and education centres affects children’s cognitive and
 
 _Chapters_
 
-1) Stienstra, Kim, & **Ghirardi, G.**, Genetics of Education: From Research to Policy to Improve Educational Performance and Equality. In The Biological Turn in Education Policy: Navigating Minds eds. Mattei, Kyriazi, Ydesen, Stieger – [Here to access the chapter](https://www.elgaronline.com/edcollchap/book/9781035373222/chapter8.xml)
+1) Stienstra, Kim, & **Ghirardi, G.**, Genetics of Education: From Research to Policy to Improve Educational Performance and Equality. In _The Biological Turn in Education Policy: Navigating Minds_ eds. Mattei, Kyriazi, Ydesen, Stieger – [Here to access the chapter](https://www.elgaronline.com/edcollchap/book/9781035373222/chapter8.xml)
 
