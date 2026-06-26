@@ -10,7 +10,7 @@ author_profile: true
 2) Bernardi, F., Ferrara, A.  & **Ghirardi G.** Unequal luck: chance as a mechanism of educational inequality. [Here the working paper](https://osf.io/preprints/socarxiv/gjxr2_v1)
 
 3) **Ghirardi G**. & Gioachin, F. Family income volatility and children’s education by income level and
-genotype
+genotype.
    
 4) Breinholt, A., & **Ghirardi, G.**, Interactions between Childhood Socioeconomic Status and Genotype on Educational Outcomes: A Novel Theoretical Typology and Meta-Analysis of Molecular Studies. [Here the pre-registration](https://osf.io/3sh2n?mode=&revisionId=&view_only=) 
 
