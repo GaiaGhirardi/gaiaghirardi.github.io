@@ -9,7 +9,7 @@ author_profile: true
 
 My PhD thesis explores how family socioeconomic conditions interact with children’s genotypes in shaping social inequalities in education and health. I find that the family's socioeconomic background can compensate, boost, or trigger genetic associations by contributing to the intergenerational reproduction of social inequality. My thesis can be found [here](https://cadmus.eui.eu/entities/publication/3c4e3998-e51f-40f0-a0e3-24ed7850dd8d) and it was awarded the [2026 Best PhD Thesis Prize in Sociology by the European Consortium for Sociological Research (ECSR)](https://ecsrnet.eu/ecsr-prize-for-best-phd-thesis/).
 
-<p>The illustrations below, drawn by my dearest friend and great artist, visualize the key findings and mechanisms found in the thesis.</p>
+<p>The illustrations below, drawn by my dearest friend and artist, visualize the key findings and mechanisms found in the thesis.</p>
 
 <div style="text-align:center;">
   <img src="http://gaiaghirardi.github.io/images/Flowers_Sfondo.pdf" width="550"/><br>
