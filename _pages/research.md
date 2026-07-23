@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-1) **Ghirardi G.** & Ferrara, A. Social media use, genotype and adolescent mental health: A social push pattern among girls. [Here the working paper](https://doi.org/10.31235/osf.io/g42he_v1)
+1) **Ghirardi G**. & Gioachin, F. Family income volatility and children’s education by income level and
+genotype. [Here the working paper](https://osf.io/preprints/socarxiv/rbh74_v1)
 
-2) Bernardi, F., Ferrara, A.  & **Ghirardi G.** Unequal luck: chance as a mechanism of educational inequality. [Here the working paper](https://osf.io/preprints/socarxiv/gjxr2_v1)
+2) **Ghirardi G.** & Ferrara, A. Social media use, genotype and adolescent mental health: A social push pattern among girls. [Here the working paper](https://doi.org/10.31235/osf.io/g42he_v1)
 
-3) **Ghirardi G**. & Gioachin, F. Family income volatility and children’s education by income level and
-genotype.
+3) Bernardi, F., Ferrara, A.  & **Ghirardi G.** Unequal luck: chance as a mechanism of educational inequality. [Here the working paper](https://osf.io/preprints/socarxiv/gjxr2_v1)
    
 4) Breinholt, A., & **Ghirardi, G.**, Interactions between Childhood Socioeconomic Status and Genotype on Educational Outcomes: A Novel Theoretical Typology and Meta-Analysis of Molecular Studies. [Here the pre-registration](https://osf.io/3sh2n?mode=&revisionId=&view_only=) 
 
