@@ -12,7 +12,7 @@ genotype. [Here the working paper](https://osf.io/preprints/socarxiv/rbh74_v1)
 
 3) Bernardi, F., Ferrara, A.  & **Ghirardi G.** Unequal luck: chance as a mechanism of educational inequality. [Here the working paper](https://osf.io/preprints/socarxiv/gjxr2_v1)
    
-4) Breinholt, A., & **Ghirardi, G.**, Interactions between Childhood Socioeconomic Status and Genotype on Educational Outcomes: A Novel Theoretical Typology and Meta-Analysis of Molecular Studies. [Here the pre-registration](https://osf.io/3sh2n?mode=&revisionId=&view_only=) 
+4) Breinholt, A., & **Ghirardi, G.**, Interactions between childhood socioeconomic status and genotype on educational outcomes: A novel theoretical typology and meta-analysis of molecular studies. [Here the pre-registration](https://osf.io/3sh2n?mode=&revisionId=&view_only=) 
 
 
 <div align="center">
