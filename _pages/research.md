@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-1) **Ghirardi G.** & Ferrara, A. Social media use, genotype and adolescent mental health: A social push pattern among girls - R&R [Here the working paper](https://doi.org/10.31235/osf.io/g42he_v1)
+1) **Ghirardi G.** & Ferrara, A. Social media use, genotype and adolescent mental health: A social push pattern among girls - R&R - [Here the working paper](https://doi.org/10.31235/osf.io/g42he_v1)
    
 2) **Ghirardi G**. & Gioachin, F. Family income volatility and children’s education by income level and
 genotype. [Here the working paper](https://osf.io/preprints/socarxiv/rbh74_v1)
