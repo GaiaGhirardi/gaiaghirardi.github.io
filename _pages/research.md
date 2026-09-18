@@ -12,9 +12,10 @@ genotype. [Here the working paper](https://osf.io/preprints/socarxiv/rbh74_v1)
 
 3) Van Hootegem, A.,  Salokangas, H., **Ghirardi, G.**,  Dobewall, H.,  Jernstöm, L.,  & Vaalavuo, M. Do genes modify earnings trajectories following job loss? Gene-environment interactions with endogenous and exogenous forms of job loss. [Here the working paper](https://osf.io/preprints/socarxiv/e876a_v2) (under review)
 
-4) Bernardi, F., Ferrara, A.  & **Ghirardi G.** Unequal luck: chance as a mechanism of educational inequality. [Here the working paper](https://osf.io/preprints/socarxiv/gjxr2_v1)
+4) Stienstra, K., & **Ghirardi, G.** Cumulative Family Adversity & Gene–Environment Interactions in Child Development (working in progress)
 
-5) Stienstra, K., & **Ghirardi, G.** Cumulative Family Adversity & Gene–Environment Interactions in Child Development (working in progress)
+5) Bernardi, F., Ferrara, A.  & **Ghirardi G.** Unequal luck: chance as a mechanism of educational inequality. [Here the working paper](https://osf.io/preprints/socarxiv/gjxr2_v1)
+
 
 <div align="center">
 <img src="http://gaiaghirardi.github.io/images/re.jpeg" width="350" />
