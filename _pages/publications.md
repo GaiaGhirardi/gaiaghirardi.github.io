@@ -27,3 +27,11 @@ _Chapters_
 
 1) Stienstra, Kim, & **Ghirardi, G.**, Genetics of Education: From Research to Policy to Improve Educational Performance and Equality. In _The Biological Turn in Education Policy: Navigating Minds_ eds. Mattei, Kyriazi, Ydesen, Stieger – [Here to access the chapter](https://www.elgaronline.com/edcollchap/book/9781035373222/chapter8.xml)
 
+_Comments_
+
+2) **Ghirardi G.**, Van Hootegem, A. & Harden. K. P. (2026) “Embryo screening and the new reproductive
+divide” _Nature Human Behaviour_ - [Here to access the paper](https://www.nature.com/articles/s41562-026-02561-x)
+
+1) Van Hootegem, A. & **Ghirardi G.** (2025) “Embryo selection based on polygenic prediction risks rein-
+forcing social inequality” _Fertility and Sterility_ - [Here to access the paper](https://www.fertstert.org/news-do/embryo-selection-based-polygenic-prediction-risks-reinforcing-social-inequality)
+
