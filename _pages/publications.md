@@ -7,31 +7,30 @@ author_profile: true
 
 _Peer-reviewed journal articles_
 
-6) **Ghirardi, G.** (2025) The development of body mass index from adolescence to adulthood: A genotype-family socioeconomic status interaction Study. _Social Science and Medicine_ – [Here to access the paper](https://www.sciencedirect.com/science/article/abs/pii/S0277953625008706)
+**Ghirardi, G.** (2025) The development of body mass index from adolescence to adulthood: A genotype-family socioeconomic status interaction Study. _Social Science and Medicine_ – [Here to access the paper](https://www.sciencedirect.com/science/article/abs/pii/S0277953625008706)
 
-5) Bernardi F. & **Ghirardi, G.**, (2025) Socioeconomic status, genotype, and the differential effects of parental separation on educational attainment. _Demography_ – [Here to access the paper](https://doi.org/10.1215/00703370-11968557)
+Bernardi F. & **Ghirardi, G.**, (2025) Socioeconomic status, genotype, and the differential effects of parental separation on educational attainment. _Demography_ – [Here to access the paper](https://doi.org/10.1215/00703370-11968557)
 
-4)  **Ghirardi, G.**, & Gioachin, F. (2025) Center-based ECEC closes gaps, others may widen them: A
+ **Ghirardi, G.**, & Gioachin, F. (2025) Center-based ECEC closes gaps, others may widen them: A
 decomposition of how different childcare arrangements shape early educational inequality. _Acta Sociologica_ – [Here to access the paper](https://journals.sagepub.com/doi/10.1177/00016993251389750) 
 
-3) **Ghirardi, G.**, & Bernardi F. (2025) Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity. _Social Science Research_ – [Here to access the paper](https://www.sciencedirect.com/science/article/pii/S0049089X25000353)
+**Ghirardi, G.**, & Bernardi F. (2025) Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity. _Social Science Research_ – [Here to access the paper](https://www.sciencedirect.com/science/article/pii/S0049089X25000353)
    
-2) **Ghirardi G.**,  Gil-Hernández C., Bernardi F., van Bergen E., Demange P. (2024)
+**Ghirardi G.**,  Gil-Hernández C., Bernardi F., van Bergen E., Demange P. (2024)
 Interaction of family SES with children’s genetic propensity for cognitive and noncognitive skills: No evidence of the Scarr-Rowe hypothesis for educational outcomes. _Research in Social Stratification and Mobility_ – [Here to access the paper](https://www.sciencedirect.com/science/article/pii/S0276562424000738?ref=cra_js_challenge&fr=RR-1) -  [Here the pre-registration](https://archive.org/details/osf-registrations-g68x9-v1)
 
-1) **Ghirardi G.**, Baier T., Kleinert C., Triventi M., (2022) Is early formal childcare an equalizer?
+**Ghirardi G.**, Baier T., Kleinert C., Triventi M., (2022) Is early formal childcare an equalizer?
 How attending childcare and education centres affects children’s cognitive and socio-emotional skills in Germany. _European Sociological Review_ –  [Here to access the paper](https://academic.oup.com/esr/advance-article-abstract/doi/10.1093/esr/jcac048/6786025?redirectedFrom=fulltext&login=true)
-
 
 _Chapters_
 
-1) Stienstra, Kim, & **Ghirardi, G.**, Genetics of Education: From Research to Policy to Improve Educational Performance and Equality. In _The Biological Turn in Education Policy: Navigating Minds_ eds. Mattei, Kyriazi, Ydesen, Stieger – [Here to access the chapter](https://www.elgaronline.com/edcollchap/book/9781035373222/chapter8.xml)
+Stienstra, Kim, & **Ghirardi, G.**, Genetics of Education: From Research to Policy to Improve Educational Performance and Equality. In _The Biological Turn in Education Policy: Navigating Minds_ eds. Mattei, Kyriazi, Ydesen, Stieger – [Here to access the chapter](https://www.elgaronline.com/edcollchap/book/9781035373222/chapter8.xml)
 
 _Comments_
 
-2) **Ghirardi G.**, Van Hootegem, A. & Harden. K. P. (2026) “Embryo screening and the new reproductive
+**Ghirardi G.**, Van Hootegem, A. & Harden. K. P. (2026) “Embryo screening and the new reproductive
 divide” _Nature Human Behaviour_ - [Here to access the paper](https://www.nature.com/articles/s41562-026-02561-x)
 
-1) Van Hootegem, A. & **Ghirardi G.** (2025) “Embryo selection based on polygenic prediction risks rein-
+Van Hootegem, A. & **Ghirardi G.** (2025) “Embryo selection based on polygenic prediction risks rein-
 forcing social inequality” _Fertility and Sterility_ - [Here to access the paper](https://www.fertstert.org/news-do/embryo-selection-based-polygenic-prediction-risks-reinforcing-social-inequality)
 
