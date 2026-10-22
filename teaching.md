@@ -4,6 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### Lecturer in educational inequalities
+- **MA level:** Free University, Berlin (Fall 2026/2027)
+
 ### Guest lecturer in sociogenomics
 
 - **PhD level:** Winter School on Inequality and Social Welfare Theory (Canazei, Italy, 2025)
