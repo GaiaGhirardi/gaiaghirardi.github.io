@@ -55,11 +55,6 @@
         - label: working paper
           url: https://osf.io/preprints/socarxiv/e876a_v2
 
-    - title: "Cumulative Family Adversity & Gene–Environment Interactions in Child Development"
-      authors:
-        - K. Stienstra
-        - G. Ghirardi
-
     - title: "Unequal luck: chance as a mechanism of educational inequality"
       authors:
         - F. Bernardi
@@ -68,6 +63,11 @@
       links:
         - label: working paper
           url: https://osf.io/preprints/socarxiv/gjxr2_v1
+
+    - title: "Cumulative Family Adversity & Gene–Environment Interactions in Child Development"
+      authors:
+        - K. Stienstra
+        - G. Ghirardi
 
 - group: Peer-reviewed articles
   page: publications
