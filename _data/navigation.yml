@@ -1,21 +1,20 @@
-# main links links
-main:
-      
-  - title: "Work in progress"
-    url: /research/ 
-    
-  - title: "Publications"
-    url: /publications/ 
+# Links shown under your name, in this order.
+# A page: "/page-name/"   A section of a page: "/page-name/#section-name"
+# Add "new_tab: true" under a link to open it in a new tab.
+- title: work in progress
+  url: /work-in-progress/
 
-  - title: "PhD Thesis"
-    url: /thesis/     
-    
-  - title: "CV"
-    url: /cv/ 
+- title: publications
+  url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "Data & Code"
-    url: /datacode/
-    
+- title: thesis
+  url: /thesis/
+
+- title: cv
+  url: /cv/
+
+- title: teaching
+  url: /teaching/
+
+- title: data & code
+  url: /datacode/

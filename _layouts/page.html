@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{%- comment -%} One page below the header: its title, its text, then any papers {%- endcomment -%}
+{%- assign text = content | strip -%}
+
+<section class="block{% if page.papers %} research{% endif %}">
+  <h1 class="section-title">{{ page.title }}</h1>
+  {%- if text != "" %}
+  <div class="prose">
+    {% include site-links.html html=text %}
+  </div>
+  {%- endif %}
+  {%- if page.papers %}
+  {% include papers.html page=page.papers small_headings=true %}
+  {%- endif %}
+  {%- if page.photo_after_papers %}
+  <p><img class="page-photo" src="{{ page.photo_after_papers.src | relative_url }}" alt="{{ page.photo_after_papers.alt }}" width="{{ page.photo_after_papers.width }}" height="{{ page.photo_after_papers.height }}" loading="lazy"></p>
+  {%- endif %}
+</section>

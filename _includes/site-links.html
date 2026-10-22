@@ -1,0 +1,9 @@
+{%- comment -%}
+  Makes links and images written as "/files/..." or "/images/..." in the
+  Markdown files point inside the site, whatever its address. GitHub already
+  adds the address to some of them, so first undo that, then add it once.
+  Buttons ({: .button} after a link) also open in a new tab.
+{%- endcomment -%}
+{%- assign base_href = 'href="' | append: site.baseurl | append: '/' -%}
+{%- assign base_src = 'src="' | append: site.baseurl | append: '/' -%}
+{{ include.html | replace: base_href, 'href="/' | replace: base_src, 'src="/' | replace: 'href="/', base_href | replace: 'src="/', base_src | replace: 'class="button"', 'class="button" target="_blank" rel="noopener"' }}

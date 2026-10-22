@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="profile">
+  <img class="photo" src="{{ site.details.photo | relative_url }}" alt="Photo of {{ site.title }}" width="600" height="600">
+  <p class="details">
+    <span>{{ site.details.position }}</span>
+    <span>{{ site.details.institution }}</span>
+    <span><a href="mailto:{{ site.details.email }}">{{ site.details.email }}</a></span>
+    {%- if site.details.links %}
+    {%- comment -%} Links in two halves: one line on computers, two lines on phones {%- endcomment -%}
+    {%- assign link_count = site.details.links | size %}
+    {%- assign half = link_count | plus: 1 | divided_by: 2 %}
+    <span class="details-links">
+      <span class="link-group">
+        {%- for link in site.details.links limit: half -%}
+        <a href="{{ link.url }}">{{ link.title }}</a>
+        {%- endfor -%}
+      </span>
+      {%- if link_count > half -%}
+      <span class="link-group">
+        {%- for link in site.details.links offset: half -%}
+        <a href="{{ link.url }}">{{ link.title }}</a>
+        {%- endfor -%}
+      </span>
+      {%- endif %}
+    </span>
+    {%- endif %}
+  </p>
+</section>
+
+<section class="block prose bio">
+  {% include site-links.html html=content %}
+</section>

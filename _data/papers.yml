@@ -1,0 +1,175 @@
+# Each group becomes a heading, in this order, on the page named in "page":
+#   page: work-in-progress   the Work in progress page
+#   page: publications       the Publications page
+# To move a paper (for example once it is published), cut its entry and
+# paste it under another group.
+# Only "title" is required. Leave out any field a paper doesn't have.
+#
+#   - title: Paper title
+#     authors:                      (in order; your name, as written in
+#       - G. Ghirardi                citation_name in _config.yml, is bold)
+#       - F. Bernardi
+#     status: Journal Name (2026)
+#     abstract: >-
+#       Abstract text, on as many lines as you like.
+#     links:
+#       - label: paper
+#         url: https://doi.org/...
+#       - label: replication
+#         url: https://github.com/GaiaGhirardi/...
+#
+# A coauthor can also link to their website:
+#       - name: F. Bernardi
+#         url: https://their-website.com
+
+- group: Work in progress
+  page: work-in-progress
+  papers:
+    - title: "Social media use, genotype and adolescent mental health: A social push pattern among girls"
+      authors:
+        - G. Ghirardi
+        - A. Ferrara
+      status: R&R
+      links:
+        - label: working paper
+          url: https://doi.org/10.31235/osf.io/g42he_v1
+
+    - title: "Family income volatility and children's education by income level and genotype"
+      authors:
+        - G. Ghirardi
+        - F. Gioachin
+      links:
+        - label: working paper
+          url: https://osf.io/preprints/socarxiv/rbh74_v1
+
+    - title: "Do genes modify earnings trajectories following job loss? Gene-environment interactions with endogenous and exogenous forms of job loss"
+      authors:
+        - A. Van Hootegem
+        - H. Salokangas
+        - G. Ghirardi
+        - H. Dobewall
+        - L. Jernström
+        - M. Vaalavuo
+      status: Under review
+      links:
+        - label: working paper
+          url: https://osf.io/preprints/socarxiv/e876a_v2
+
+    - title: "Cumulative Family Adversity & Gene–Environment Interactions in Child Development"
+      authors:
+        - K. Stienstra
+        - G. Ghirardi
+
+    - title: "Unequal luck: chance as a mechanism of educational inequality"
+      authors:
+        - F. Bernardi
+        - A. Ferrara
+        - G. Ghirardi
+      links:
+        - label: working paper
+          url: https://osf.io/preprints/socarxiv/gjxr2_v1
+
+- group: Peer-reviewed articles
+  page: publications
+  papers:
+    - title: "The development of body mass index from adolescence to adulthood: A genotype-family socioeconomic status interaction study"
+      authors:
+        - G. Ghirardi
+      status: Social Science & Medicine (2025)
+      links:
+        - label: paper
+          url: https://www.sciencedirect.com/science/article/abs/pii/S0277953625008706
+
+    - title: "Socioeconomic status, genotype, and the differential effects of parental separation on educational attainment"
+      authors:
+        - F. Bernardi
+        - G. Ghirardi
+      status: Demography (2025)
+      links:
+        - label: paper
+          url: https://doi.org/10.1215/00703370-11968557
+        - label: replication
+          url: https://github.com/GaiaGhirardi/parents_separation_genes
+
+    - title: "Center-based ECEC closes gaps, others may widen them: A decomposition of how different childcare arrangements shape early educational inequality"
+      authors:
+        - G. Ghirardi
+        - F. Gioachin
+      status: Acta Sociologica (2025)
+      links:
+        - label: paper
+          url: https://journals.sagepub.com/doi/10.1177/00016993251389750
+        - label: replication
+          url: https://github.com/GaiaGhirardi/ECEC_decomposition
+
+    - title: "Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity"
+      authors:
+        - G. Ghirardi
+        - F. Bernardi
+      status: Social Science Research (2025)
+      links:
+        - label: paper
+          url: https://www.sciencedirect.com/science/article/pii/S0049089X25000353
+
+    - title: "Interaction of family SES with children's genetic propensity for cognitive and noncognitive skills: No evidence of the Scarr-Rowe hypothesis for educational outcomes"
+      authors:
+        - G. Ghirardi
+        - C. Gil-Hernández
+        - F. Bernardi
+        - E. van Bergen
+        - P. Demange
+      status: Research in Social Stratification and Mobility (2024)
+      links:
+        - label: paper
+          url: https://www.sciencedirect.com/science/article/pii/S0276562424000738
+        - label: pre-registration
+          url: https://archive.org/details/osf-registrations-g68x9-v1
+        - label: replication
+          url: https://github.com/GaiaGhirardi/NTR_GxE
+
+    - title: "Is early formal childcare an equalizer? How attending childcare and education centres affects children's cognitive and socio-emotional skills in Germany"
+      authors:
+        - G. Ghirardi
+        - T. Baier
+        - C. Kleinert
+        - M. Triventi
+      status: European Sociological Review (2022)
+      links:
+        - label: paper
+          url: https://doi.org/10.1093/esr/jcac048
+        - label: replication
+          url: https://github.com/GaiaGhirardi/ECEC
+
+- group: Book chapters
+  page: publications
+  papers:
+    - title: "Genetics of Education: From Research to Policy to Improve Educational Performance and Equality"
+      authors:
+        - K. Stienstra
+        - G. Ghirardi
+      status: "In The Biological Turn in Education Policy: Navigating Minds, eds. Mattei, Kyriazi, Ydesen & Stieger"
+      links:
+        - label: chapter
+          url: https://www.elgaronline.com/edcollchap/book/9781035373222/chapter8.xml
+
+- group: Comments
+  page: publications
+  papers:
+    - title: "Embryo screening and the new reproductive divide"
+      authors:
+        - G. Ghirardi
+        - A. Van Hootegem
+        - K. P. Harden
+      status: Nature Human Behaviour (2026)
+      links:
+        - label: paper
+          url: https://www.nature.com/articles/s41562-026-02561-x
+
+    - title: "Embryo selection based on polygenic prediction risks reinforcing social inequality"
+      authors:
+        - A. Van Hootegem
+        - G. Ghirardi
+      status: Fertility and Sterility (2025)
+      links:
+        - label: paper
+          url: https://www.fertstert.org/news-do/embryo-selection-based-polygenic-prediction-risks-reinforcing-social-inequality
