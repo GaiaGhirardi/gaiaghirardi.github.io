@@ -24,19 +24,19 @@
   --background: #ffffff;
   --text: #000000;
   --text-soft: #4d4d4d;   /* authors, status, captions */
-  --title: #084c61;       /* name and big headings: the icon's blue */
-  --accent: #084c61;      /* links, buttons and small headings */
-  --rule: #d3dfe3;        /* thin lines: the blue, very light */
+  --title: #204b5f;       /* name and big headings: the site's petrol blue */
+  --accent: #204b5f;      /* links, buttons and small headings */
+  --rule: #d2dfe5;        /* thin lines: the petrol, very light */
   --figure: #ffffff;      /* behind the thesis drawings */
   color-scheme: light;
 }
 :root[data-theme="dark"] {
-  --background: #084c61;  /* the icon's blue */
+  --background: #204b5f;  /* the site's petrol blue */
   --text: #ffffff;
-  --text-soft: #c9d8dc;
-  --title: #eaba6b;       /* gold, as on the previous site */
-  --accent: #eaba6b;
-  --rule: #30697a;
+  --text-soft: #d3e2e8;   /* authors, status, captions */
+  --title: #ffffff;       /* name and big headings: white */
+  --accent: #a9d4e6;      /* links, buttons and small headings: ice blue */
+  --rule: #3c6679;        /* thin lines on the petrol */
   --figure: #ffffff;
   color-scheme: dark;
 }
