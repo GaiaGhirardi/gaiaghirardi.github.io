@@ -16,10 +16,10 @@ My research aims to understand the intergenerational transmission of education a
 - Sociogenomics
 - Early childhood
 
-![A country road seen from a bike](/images/bybike.jpg){: .wide-photo width="1800" height="583"}
-
 <figure>
   <img src="/images/thesis_illustration_1.jpg" width="1400" height="1072" loading="lazy"
        alt="Drawing: two flowers growing from DNA, one under a sunny socioeconomic environment and one under a cloud, linking parents to children's education and health">
   <figcaption>Illustration by Giuditta Furlan – <a href="mailto:giudittafurlan@gmail.com">giudittafurlan@gmail.com</a></figcaption>
 </figure>
+
+![A country road seen from a bike](/images/bybike.jpg){: .wide-photo width="1800" height="583"}
