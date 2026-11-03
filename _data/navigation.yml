@@ -16,5 +16,7 @@
 - title: teaching
   url: /teaching/
 
-- title: data & code
-  url: /datacode/
+# Hidden for now. To show the Data & code page again, remove the "# "
+# at the start of the two lines below (and "published: false" in datacode.md).
+# - title: data & code
+#   url: /datacode/

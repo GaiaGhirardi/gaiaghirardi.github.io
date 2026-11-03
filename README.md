@@ -14,7 +14,7 @@ every time changes are pushed (it takes about a minute).
 | PhD thesis                                         | `thesis.md`                |
 | CV page                                            | `cv.md`                    |
 | Teaching                                           | `teaching.md`              |
-| Data & code                                        | `datacode.md`              |
+| Data & code (currently hidden, see `published: false`) | `datacode.md`         |
 | Links under your name                              | `_data/navigation.yml`     |
 | Fonts, colors, spacing, buttons                    | `assets/site.css`          |
 | CV                                                 | replace `files/Ghirardi_CV.pdf`, keeping the same name |
