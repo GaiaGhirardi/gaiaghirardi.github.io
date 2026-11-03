@@ -7,7 +7,7 @@ every time changes are pushed (it takes about a minute).
 
 | To change…                                         | Edit this file             |
 |----------------------------------------------------|----------------------------|
-| Bio paragraphs, research fields, bike photo, thesis drawing | `index.md`        |
+| Bio paragraphs, bike photo, thesis drawing        | `index.md`                 |
 | Position, institution, email, photo, profile links | `_config.yml`              |
 | Papers (titles, authors, journals, links)          | `_data/papers.yml`         |
 | Work in progress page (photo at the bottom)        | `work-in-progress.md`      |
