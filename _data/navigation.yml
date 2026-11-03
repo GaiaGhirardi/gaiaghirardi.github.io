@@ -1,11 +1,11 @@
 # Links shown under your name, in this order.
 # A page: "/page-name/"   A section of a page: "/page-name/#section-name"
 # Add "new_tab: true" under a link to open it in a new tab.
-- title: work in progress
-  url: /work-in-progress/
-
 - title: publications
   url: /publications/
+
+- title: work in progress
+  url: /work-in-progress/
 
 # Hidden for now. To show the PhD thesis page again, remove the "# "
 # at the start of the two lines below (and "published: false" in thesis.md).
