@@ -2,6 +2,7 @@
 layout: page
 title: PhD thesis
 permalink: /thesis/
+published: false   # page hidden from the site; delete this line to bring it back
 ---
 
 My PhD thesis explores how family socioeconomic conditions interact with children's genotypes in shaping social inequalities in education and health. I find that the family's socioeconomic background can compensate, boost, or trigger genetic associations by contributing to the intergenerational reproduction of social inequality. My thesis can be found [here](https://cadmus.eui.eu/entities/publication/3c4e3998-e51f-40f0-a0e3-24ed7850dd8d) and it was awarded the [2026 Best PhD Thesis Prize in Sociology by the European Consortium for Sociological Research (ECSR)](https://ecsrnet.eu/ecsr-prize-for-best-phd-thesis/).

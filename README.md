@@ -7,11 +7,11 @@ every time changes are pushed (it takes about a minute).
 
 | To change…                                         | Edit this file             |
 |----------------------------------------------------|----------------------------|
-| Bio paragraphs, research fields, bike photo        | `index.md`                 |
+| Bio paragraphs, research fields, bike photo, thesis drawing | `index.md`        |
 | Position, institution, email, photo, profile links | `_config.yml`              |
 | Papers (titles, authors, journals, links)          | `_data/papers.yml`         |
 | Work in progress page (photo at the bottom)        | `work-in-progress.md`      |
-| PhD thesis                                         | `thesis.md`                |
+| PhD thesis (currently hidden, see `published: false`) | `thesis.md`          |
 | CV page                                            | `cv.md`                    |
 | Teaching                                           | `teaching.md`              |
 | Data & code (currently hidden, see `published: false`) | `datacode.md`         |

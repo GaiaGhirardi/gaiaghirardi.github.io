@@ -7,8 +7,10 @@
 - title: publications
   url: /publications/
 
-- title: thesis
-  url: /thesis/
+# Hidden for now. To show the PhD thesis page again, remove the "# "
+# at the start of the two lines below (and "published: false" in thesis.md).
+# - title: thesis
+#   url: /thesis/
 
 - title: cv
   url: /cv/
