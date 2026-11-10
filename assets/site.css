@@ -47,12 +47,12 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
-  font-size: 112.5%;               
+  font-size: 100%;                 /* text size on phones (100% = 16px); was 112.5% */
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
 }
 @media (min-width: 40em) {
-  html { font-size: 118.75%; }        
+  html { font-size: 106.25%; }      /* text size on computers (106.25% = 17px); was 118.75% */
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
